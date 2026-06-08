@@ -1,0 +1,1001 @@
+Date,Customer_ID,Product,Category,Quantity,Price,Sales,Gender,Age,Year,Month_Name,Region,Age_Group,Customer_Type,Payment_Method,Sales_Channel,Cost_Price,Profit
+01-01-2023,1051,Mobile,Electronics,3,38828,116484,Male,24,2023,January,East,18-25,Returning,Debit Card,Online,23723.96,45312.12
+01-01-2023,1092,Bag,Accessories,3,16392,49176,Male,60,2023,January,West,46-60,Returning,Debit Card,Online,12012.18,13139.45
+02-01-2023,1014,Laptop,Electronics,3,47799,143397,Male,41,2023,January,West,36-45,New,UPI,Offline,29047.03,56255.9
+03-01-2023,1071,Shoes,Fashion,1,17573,17573,Female,21,2023,January,Central,18-25,New,Credit Card,Offline,11407.98,6165.02
+03-01-2023,1060,Headphones,Electronics,4,37268,149072,Male,45,2023,January,South,36-45,New,Cash,Offline,28897.74,33481.03
+04-01-2023,1020,Mobile,Electronics,4,31182,124728,Female,32,2023,January,West,26-35,Returning,Cash,Offline,20368.83,43252.67
+05-01-2023,1082,Laptop,Electronics,5,32762,163810,Female,18,2023,January,Central,18-25,New,UPI,Online,20231.45,62652.74
+06-01-2023,1086,Clothes,Fashion,5,31858,159290,Male,20,2023,January,South,18-25,Returning,Credit Card,Offline,24801.88,35280.58
+06-01-2023,1074,Watch,Accessories,5,14789,73945,Female,31,2023,January,East,26-35,Returning,Cash,Online,8878.85,29550.76
+07-01-2023,1074,Shoes,Fashion,3,8427,25281,Female,55,2023,January,East,46-60,Returning,Debit Card,Online,6230.61,6589.17
+08-01-2023,1087,Mobile,Electronics,4,48830,195320,Male,18,2023,January,North,18-25,Returning,Cash,Offline,36006.16,51295.38
+09-01-2023,1099,Mobile,Electronics,3,1671,5013,Female,55,2023,January,Central,46-60,New,UPI,Offline,1248.81,1266.56
+09-01-2023,1023,Headphones,Electronics,1,12418,12418,Female,55,2023,January,South,46-60,New,Cash,Online,9329.43,3088.57
+10-01-2023,1002,Headphones,Electronics,5,42403,212015,Female,38,2023,January,West,36-45,New,Debit Card,Online,30160.95,61210.27
+11-01-2023,1021,Clothes,Fashion,3,39610,118830,Female,46,2023,January,East,46-60,Returning,Credit Card,Offline,26032.83,40731.5
+11-01-2023,1052,Watch,Accessories,3,12429,37287,Male,22,2023,January,South,18-25,Returning,Debit Card,Online,9033.34,10186.98
+12-01-2023,1001,Clothes,Fashion,1,3039,3039,Female,27,2023,January,Central,26-35,New,Credit Card,Online,2361.74,677.26
+13-01-2023,1087,Laptop,Electronics,2,37227,74454,Female,45,2023,January,North,36-45,Returning,Credit Card,Offline,23749.13,26955.75
+14-01-2023,1029,Laptop,Electronics,4,46451,185804,Female,38,2023,January,East,36-45,Returning,Cash,Offline,30438.1,64051.62
+14-01-2023,1037,Clothes,Fashion,2,23169,46338,Female,24,2023,January,South,18-25,Returning,UPI,Online,17409.57,11518.86
+15-01-2023,1001,Watch,Accessories,5,5932,29660,Male,20,2023,January,South,18-25,New,Debit Card,Online,4640.2,6459.01
+16-01-2023,1063,Clothes,Fashion,3,21144,63432,Female,62,2023,January,South,60+,Returning,UPI,Offline,13330.12,23441.65
+17-01-2023,1059,Watch,Accessories,1,19245,19245,Male,64,2023,January,Central,60+,New,Debit Card,Online,14239.75,5005.25
+17-01-2023,1020,Watch,Accessories,1,28728,28728,Female,37,2023,January,Central,36-45,Returning,Credit Card,Offline,19100.95,9627.05
+18-01-2023,1032,Bag,Accessories,4,35021,140084,Male,36,2023,January,Central,36-45,Returning,Cash,Offline,25399.56,38485.75
+19-01-2023,1075,Shoes,Fashion,2,32203,64406,Male,52,2023,January,West,46-60,Returning,UPI,Offline,23926.85,16552.31
+19-01-2023,1057,Watch,Accessories,4,27428,109712,Male,21,2023,January,South,18-25,New,Cash,Online,19214.17,32855.31
+20-01-2023,1021,Headphones,Electronics,3,18822,56466,Male,22,2023,January,East,18-25,New,Cash,Online,14541.38,12841.87
+21-01-2023,1088,Watch,Accessories,4,22860,91440,Male,18,2023,January,Central,18-25,New,Debit Card,Offline,15919.89,27760.43
+22-01-2023,1048,Watch,Accessories,1,29555,29555,Female,21,2023,January,Central,18-25,Returning,Debit Card,Offline,19948.65,9606.35
+22-01-2023,1090,Watch,Accessories,1,43391,43391,Female,29,2023,January,South,26-35,New,Debit Card,Offline,27067.36,16323.64
+23-01-2023,1058,Bag,Accessories,5,16876,84380,Female,44,2023,January,Central,36-45,New,Credit Card,Online,11476.85,26995.75
+24-01-2023,1041,Bag,Accessories,5,7088,35440,Male,59,2023,January,West,46-60,Returning,Credit Card,Offline,4301.07,13934.66
+25-01-2023,1091,Laptop,Electronics,3,25500,76500,Female,40,2023,January,West,36-45,Returning,Debit Card,Offline,16963.99,25608.04
+25-01-2023,1059,Bag,Accessories,2,6804,13608,Male,42,2023,January,Central,36-45,Returning,Credit Card,Online,5298.85,3010.31
+26-01-2023,1079,Headphones,Electronics,4,7845,31380,Male,38,2023,January,South,36-45,Returning,Credit Card,Online,6080.01,7059.97
+27-01-2023,1014,Headphones,Electronics,3,29800,89400,Female,41,2023,January,South,36-45,New,Debit Card,Offline,21450.9,25047.31
+28-01-2023,1061,Bag,Accessories,5,24759,123795,Female,42,2023,January,South,36-45,Returning,Debit Card,Offline,15686.05,45364.77
+28-01-2023,1061,Clothes,Fashion,4,25970,103880,Male,62,2023,January,North,60+,New,Cash,Offline,18438.06,30127.75
+29-01-2023,1046,Shoes,Fashion,5,23517,117585,Male,63,2023,January,Central,60+,New,Credit Card,Online,18699.73,24086.37
+30-01-2023,1061,Bag,Accessories,4,15852,63408,Female,49,2023,January,South,46-60,Returning,Credit Card,Offline,11381.98,17880.09
+30-01-2023,1050,Watch,Accessories,2,33865,67730,Female,49,2023,January,West,46-60,New,Credit Card,Online,21665.22,24399.55
+31-01-2023,1054,Mobile,Electronics,3,19946,59838,Female,22,2023,January,East,18-25,Returning,Cash,Offline,14459,16461
+01-02-2023,1063,Shoes,Fashion,4,2836,11344,Female,53,2023,February,East,46-60,Returning,Debit Card,Offline,2198.22,2551.13
+02-02-2023,1002,Shoes,Fashion,1,10379,10379,Male,63,2023,February,South,60+,Returning,Debit Card,Offline,7015.93,3363.07
+02-02-2023,1050,Headphones,Electronics,1,32816,32816,Female,59,2023,February,East,46-60,New,Credit Card,Offline,20440.64,12375.36
+03-02-2023,1006,Shoes,Fashion,4,33840,135360,Female,59,2023,February,East,46-60,New,UPI,Online,25901.29,31754.82
+04-02-2023,1020,Bag,Accessories,4,8021,32084,Female,56,2023,February,North,46-60,New,Cash,Online,5279.19,10967.24
+05-02-2023,1072,Watch,Accessories,4,6671,26684,Male,33,2023,February,West,26-35,New,Debit Card,Online,5095.04,6303.86
+05-02-2023,1038,Watch,Accessories,1,23981,23981,Male,50,2023,February,West,46-60,New,Debit Card,Online,14822.46,9158.54
+06-02-2023,1017,Laptop,Electronics,1,18974,18974,Male,38,2023,February,North,36-45,Returning,Debit Card,Offline,13506.64,5467.36
+07-02-2023,1003,Watch,Accessories,4,47260,189040,Male,26,2023,February,North,26-35,Returning,UPI,Online,36714.6,42181.59
+07-02-2023,1088,Watch,Accessories,5,45129,225645,Female,23,2023,February,East,18-25,Returning,Credit Card,Online,35832.22,46483.92
+08-02-2023,1059,Headphones,Electronics,5,45732,228660,Male,62,2023,February,Central,60+,New,Credit Card,Online,35504.71,51136.45
+09-02-2023,1013,Watch,Accessories,2,21508,43016,Female,52,2023,February,East,46-60,New,Cash,Offline,14784.78,13446.44
+10-02-2023,1008,Laptop,Electronics,3,2133,6399,Female,56,2023,February,North,46-60,New,Cash,Online,1305.94,2481.18
+10-02-2023,1089,Mobile,Electronics,5,12985,64925,Female,39,2023,February,West,36-45,Returning,Credit Card,Online,7916.11,25344.46
+11-02-2023,1052,Bag,Accessories,1,44117,44117,Female,58,2023,February,East,46-60,Returning,Cash,Offline,31520.91,12596.09
+12-02-2023,1001,Headphones,Electronics,5,4148,20740,Male,22,2023,February,Central,18-25,Returning,Cash,Offline,3114.55,5167.27
+13-02-2023,1083,Mobile,Electronics,2,48445,96890,Male,59,2023,February,East,46-60,New,UPI,Online,35023.94,26842.13
+13-02-2023,1091,Headphones,Electronics,2,13640,27280,Male,40,2023,February,South,36-45,New,Debit Card,Offline,10464.46,6351.09
+14-02-2023,1059,Clothes,Fashion,3,18421,55263,Female,34,2023,February,East,26-35,New,UPI,Offline,13930.37,13471.9
+15-02-2023,1070,Shoes,Fashion,5,14857,74285,Female,29,2023,February,North,26-35,Returning,UPI,Online,9821.66,25176.7
+16-02-2023,1043,Clothes,Fashion,1,46636,46636,Female,40,2023,February,West,36-45,New,Debit Card,Offline,35744.51,10891.49
+16-02-2023,1007,Watch,Accessories,1,3637,3637,Female,33,2023,February,West,26-35,Returning,UPI,Online,2658,979
+17-02-2023,1046,Mobile,Electronics,4,597,2388,Female,20,2023,February,North,18-25,New,Debit Card,Offline,423.85,692.6
+18-02-2023,1034,Watch,Accessories,1,11907,11907,Male,47,2023,February,South,46-60,New,Cash,Offline,8529.98,3377.02
+18-02-2023,1077,Shoes,Fashion,3,31075,93225,Female,39,2023,February,North,36-45,New,UPI,Online,19957.76,33351.71
+19-02-2023,1080,Headphones,Electronics,3,13222,39666,Male,26,2023,February,East,26-35,Returning,Credit Card,Online,8350.82,14613.54
+20-02-2023,1035,Shoes,Fashion,1,13424,13424,Female,46,2023,February,North,46-60,New,Credit Card,Offline,8736.6,4687.4
+21-02-2023,1049,Laptop,Electronics,1,4250,4250,Female,64,2023,February,North,60+,New,UPI,Online,3354.05,895.95
+21-02-2023,1003,Shoes,Fashion,4,28233,112932,Male,54,2023,February,South,46-60,Returning,Debit Card,Offline,17504.53,42913.86
+22-02-2023,1001,Laptop,Electronics,1,9035,9035,Male,40,2023,February,East,36-45,New,UPI,Offline,6622.18,2412.82
+23-02-2023,1005,Shoes,Fashion,4,24987,99948,Female,30,2023,February,Central,26-35,Returning,Credit Card,Offline,18901.46,24342.16
+24-02-2023,1053,Bag,Accessories,4,31151,124604,Female,49,2023,February,Central,46-60,Returning,UPI,Online,23189.72,31845.11
+24-02-2023,1003,Laptop,Electronics,1,5166,5166,Female,63,2023,February,West,60+,Returning,UPI,Online,3233,1933
+25-02-2023,1053,Mobile,Electronics,2,49277,98554,Female,64,2023,February,North,60+,Returning,Cash,Offline,35028.34,28497.31
+26-02-2023,1092,Watch,Accessories,2,17494,34988,Male,40,2023,February,West,36-45,Returning,Cash,Offline,10641.34,13705.33
+26-02-2023,1062,Watch,Accessories,4,2227,8908,Female,62,2023,February,South,60+,Returning,UPI,Offline,1515.59,2845.63
+27-02-2023,1017,Clothes,Fashion,1,35122,35122,Male,34,2023,February,Central,26-35,Returning,Debit Card,Online,21446.38,13675.62
+28-02-2023,1089,Watch,Accessories,2,11300,22600,Female,57,2023,February,North,46-60,Returning,Cash,Online,7835.04,6929.91
+01-03-2023,1043,Headphones,Electronics,1,38323,38323,Male,38,2023,March,South,36-45,New,Cash,Offline,24408.69,13914.31
+01-03-2023,1033,Bag,Accessories,1,43539,43539,Male,19,2023,March,South,18-25,New,Credit Card,Online,30890.46,12648.54
+02-03-2023,1073,Shoes,Fashion,1,19208,19208,Female,54,2023,March,North,46-60,New,Debit Card,Offline,13959.42,5248.58
+03-03-2023,1061,Clothes,Fashion,5,13319,66595,Male,23,2023,March,South,18-25,New,UPI,Online,9085.06,21169.71
+04-03-2023,1099,Headphones,Electronics,1,9869,9869,Female,61,2023,March,North,60+,New,UPI,Offline,6584.49,3284.51
+04-03-2023,1013,Headphones,Electronics,5,9783,48915,Male,35,2023,March,North,26-35,New,Cash,Online,6984.57,13992.13
+05-03-2023,1094,Laptop,Electronics,4,31073,124292,Female,47,2023,March,East,46-60,Returning,Cash,Online,21320.53,39009.88
+06-03-2023,1047,Watch,Accessories,2,13671,27342,Male,39,2023,March,West,36-45,New,Cash,Online,8912.88,9516.25
+07-03-2023,1014,Mobile,Electronics,2,31433,62866,Female,50,2023,March,South,46-60,New,Debit Card,Offline,21048.84,20768.31
+07-03-2023,1071,Mobile,Electronics,2,6274,12548,Female,47,2023,March,South,46-60,Returning,Debit Card,Online,4701.82,3144.36
+08-03-2023,1077,Clothes,Fashion,2,7019,14038,Male,34,2023,March,East,26-35,New,UPI,Online,4407.29,5223.41
+09-03-2023,1086,Bag,Accessories,2,11483,22966,Male,60,2023,March,East,46-60,New,Cash,Offline,9108.3,4749.4
+09-03-2023,1061,Mobile,Electronics,2,31432,62864,Male,49,2023,March,East,46-60,New,Credit Card,Offline,23370.34,16123.33
+10-03-2023,1039,Shoes,Fashion,2,31298,62596,Male,59,2023,March,Central,46-60,New,Credit Card,Online,23856.34,14883.32
+11-03-2023,1084,Mobile,Electronics,4,18633,74532,Female,31,2023,March,Central,26-35,Returning,Credit Card,Offline,14235.62,17589.52
+12-03-2023,1079,Clothes,Fashion,1,15439,15439,Male,27,2023,March,Central,26-35,New,Debit Card,Online,10985.93,4453.07
+12-03-2023,1081,Mobile,Electronics,3,1281,3843,Female,64,2023,March,North,60+,New,Cash,Online,976.96,912.12
+13-03-2023,1052,Shoes,Fashion,5,49550,247750,Male,53,2023,March,South,46-60,Returning,Credit Card,Offline,32258.44,86457.79
+14-03-2023,1023,Laptop,Electronics,3,28124,84372,Female,51,2023,March,West,46-60,Returning,UPI,Offline,20394.9,23187.31
+15-03-2023,1025,Bag,Accessories,3,7323,21969,Female,26,2023,March,North,26-35,New,Debit Card,Online,4497.05,8477.84
+15-03-2023,1088,Clothes,Fashion,1,18989,18989,Female,59,2023,March,South,46-60,Returning,Debit Card,Online,14188.62,4800.38
+16-03-2023,1059,Laptop,Electronics,1,40461,40461,Female,45,2023,March,South,36-45,Returning,Credit Card,Online,27806.01,12654.99
+17-03-2023,1040,Laptop,Electronics,1,29618,29618,Male,28,2023,March,East,26-35,Returning,Debit Card,Online,17870.82,11747.18
+17-03-2023,1028,Laptop,Electronics,2,35381,70762,Male,31,2023,March,East,26-35,Returning,Debit Card,Offline,26631.79,17498.42
+18-03-2023,1014,Headphones,Electronics,4,16780,67120,Female,56,2023,March,North,46-60,New,Cash,Offline,10530.13,24999.47
+19-03-2023,1044,Bag,Accessories,2,22763,45526,Male,64,2023,March,East,60+,New,UPI,Online,15135.8,15254.4
+20-03-2023,1064,Watch,Accessories,4,14065,56260,Male,36,2023,March,South,36-45,New,Credit Card,Online,9207.66,19429.34
+20-03-2023,1088,Bag,Accessories,4,20854,83416,Female,32,2023,March,East,26-35,New,Credit Card,Offline,14247.36,26426.56
+21-03-2023,1070,Headphones,Electronics,3,43451,130353,Male,45,2023,March,Central,36-45,New,Debit Card,Online,26562.19,50666.43
+22-03-2023,1008,Watch,Accessories,3,26143,78429,Male,41,2023,March,East,36-45,Returning,Debit Card,Online,17578.99,25692.04
+23-03-2023,1087,Bag,Accessories,4,24148,96592,Male,25,2023,March,South,18-25,New,Credit Card,Online,15370.85,35108.6
+23-03-2023,1000,Laptop,Electronics,4,42471,169884,Female,60,2023,March,North,46-60,New,Credit Card,Online,28573.76,55588.97
+24-03-2023,1007,Clothes,Fashion,2,19158,38316,Male,26,2023,March,West,26-35,Returning,UPI,Online,14504.71,9306.57
+25-03-2023,1087,Watch,Accessories,2,21753,43506,Female,64,2023,March,East,60+,Returning,Cash,Offline,13855.54,15794.91
+26-03-2023,1062,Shoes,Fashion,3,49063,147189,Male,50,2023,March,South,46-60,New,UPI,Online,32537.26,49577.22
+26-03-2023,1010,Shoes,Fashion,1,26890,26890,Male,50,2023,March,West,46-60,New,Debit Card,Offline,19029.29,7860.71
+27-03-2023,1080,Mobile,Electronics,4,23628,94512,Male,36,2023,March,West,36-45,Returning,Credit Card,Online,15700.88,31708.5
+28-03-2023,1007,Watch,Accessories,2,13989,27978,Female,20,2023,March,Central,18-25,New,UPI,Online,10619.62,6738.76
+28-03-2023,1034,Clothes,Fashion,3,38814,116442,Female,27,2023,March,West,26-35,Returning,Debit Card,Online,25310.52,40510.43
+29-03-2023,1034,Headphones,Electronics,2,33158,66316,Male,57,2023,March,South,46-60,New,Cash,Offline,20231.59,25852.83
+30-03-2023,1032,Laptop,Electronics,4,7352,29408,Female,64,2023,March,South,60+,New,Cash,Online,5071.36,9122.57
+31-03-2023,1004,Mobile,Electronics,4,29950,119800,Male,59,2023,March,East,46-60,Returning,Credit Card,Offline,21340.33,34438.68
+31-03-2023,1040,Shoes,Fashion,5,3051,15255,Female,18,2023,March,East,18-25,New,Cash,Offline,2391.68,3296.61
+01-04-2023,1027,Headphones,Electronics,1,6911,6911,Female,46,2023,April,East,46-60,Returning,UPI,Offline,4827.4,2083.6
+02-04-2023,1006,Headphones,Electronics,5,49659,248295,Male,51,2023,April,West,46-60,New,Credit Card,Offline,30980.69,93391.54
+03-04-2023,1072,Laptop,Electronics,3,33743,101229,Male,30,2023,April,West,26-35,Returning,Cash,Online,24181.06,28685.82
+03-04-2023,1071,Watch,Accessories,2,22300,44600,Male,18,2023,April,Central,18-25,Returning,UPI,Online,14716.78,15166.44
+04-04-2023,1011,Shoes,Fashion,3,10903,32709,Male,51,2023,April,East,46-60,New,Cash,Offline,8404.57,7495.28
+05-04-2023,1033,Clothes,Fashion,4,7739,30956,Female,46,2023,April,North,46-60,Returning,Debit Card,Offline,5517.01,8887.94
+05-04-2023,1032,Headphones,Electronics,5,7210,36050,Female,64,2023,April,Central,60+,Returning,Credit Card,Offline,4937.65,11361.73
+06-04-2023,1047,Laptop,Electronics,5,21884,109420,Female,30,2023,April,North,26-35,New,Credit Card,Offline,13952.76,39656.21
+07-04-2023,1022,Clothes,Fashion,5,21538,107690,Male,46,2023,April,West,46-60,Returning,Credit Card,Online,15992.88,27725.62
+08-04-2023,1061,Watch,Accessories,3,41346,124038,Male,56,2023,April,Central,46-60,Returning,Debit Card,Offline,28585.5,38281.49
+08-04-2023,1087,Shoes,Fashion,4,22947,91788,Female,41,2023,April,Central,36-45,Returning,UPI,Offline,17539.07,21631.72
+09-04-2023,1036,Watch,Accessories,2,2785,5570,Male,43,2023,April,South,36-45,New,Debit Card,Offline,1755.21,2059.58
+10-04-2023,1098,Headphones,Electronics,2,38491,76982,Female,34,2023,April,West,26-35,New,Debit Card,Online,27659.42,21663.17
+11-04-2023,1043,Clothes,Fashion,3,14021,42063,Female,24,2023,April,West,18-25,New,UPI,Offline,11156.8,8592.59
+11-04-2023,1085,Clothes,Fashion,5,48157,240785,Female,30,2023,April,Central,26-35,New,Debit Card,Online,34945.81,66055.93
+12-04-2023,1090,Clothes,Fashion,1,7471,7471,Female,22,2023,April,West,18-25,New,Debit Card,Offline,5573.73,1897.27
+13-04-2023,1034,Headphones,Electronics,3,29639,88917,Female,43,2023,April,Central,36-45,New,Debit Card,Online,21260.48,25135.57
+14-04-2023,1064,Headphones,Electronics,3,20409,61227,Male,20,2023,April,South,18-25,Returning,Credit Card,Offline,15485.1,14771.69
+14-04-2023,1098,Watch,Accessories,4,12031,48124,Male,24,2023,April,Central,18-25,New,UPI,Online,8623.35,13630.58
+15-04-2023,1046,Mobile,Electronics,2,15221,30442,Male,56,2023,April,West,46-60,New,Credit Card,Offline,10535.35,9371.3
+16-04-2023,1077,Watch,Accessories,3,19706,59118,Female,18,2023,April,West,18-25,Returning,UPI,Offline,14392.44,15940.67
+16-04-2023,1002,Shoes,Fashion,3,38211,114633,Female,34,2023,April,Central,26-35,New,Cash,Online,27093.15,33353.54
+17-04-2023,1000,Laptop,Electronics,5,7030,35150,Female,60,2023,April,Central,46-60,Returning,Cash,Offline,5417.12,8064.42
+18-04-2023,1004,Clothes,Fashion,5,11616,58080,Female,42,2023,April,Central,36-45,Returning,Debit Card,Online,6975.36,23203.2
+19-04-2023,1089,Mobile,Electronics,1,758,758,Male,20,2023,April,East,18-25,New,Cash,Offline,545.08,212.92
+19-04-2023,1013,Laptop,Electronics,4,782,3128,Male,32,2023,April,West,26-35,Returning,Credit Card,Online,513.87,1072.5
+20-04-2023,1026,Mobile,Electronics,1,14437,14437,Female,46,2023,April,West,46-60,New,Cash,Online,11461.75,2975.25
+21-04-2023,1008,Bag,Accessories,5,2398,11990,Female,60,2023,April,East,46-60,Returning,UPI,Online,1758.01,3199.95
+22-04-2023,1078,Watch,Accessories,2,4635,9270,Female,49,2023,April,Central,46-60,Returning,Cash,Offline,2919.1,3431.79
+22-04-2023,1014,Headphones,Electronics,5,7129,35645,Male,43,2023,April,South,36-45,New,Cash,Offline,5398.1,8654.5
+23-04-2023,1089,Clothes,Fashion,4,44436,177744,Male,33,2023,April,Central,26-35,Returning,Cash,Online,29856.09,58319.63
+24-04-2023,1041,Watch,Accessories,5,20084,100420,Male,42,2023,April,Central,36-45,Returning,Debit Card,Online,15251.37,24163.14
+24-04-2023,1076,Laptop,Electronics,4,24051,96204,Female,45,2023,April,East,36-45,Returning,Credit Card,Online,17487.63,26253.48
+25-04-2023,1050,Bag,Accessories,4,33880,135520,Female,26,2023,April,West,26-35,Returning,Credit Card,Online,25264.5,34461.99
+26-04-2023,1062,Bag,Accessories,4,47471,189884,Male,18,2023,April,Central,18-25,Returning,Debit Card,Offline,28751.03,74879.88
+27-04-2023,1095,Bag,Accessories,4,17571,70284,Female,46,2023,April,West,46-60,Returning,Credit Card,Online,12364.7,20825.18
+27-04-2023,1051,Laptop,Electronics,4,20574,82296,Male,39,2023,April,North,36-45,Returning,Cash,Offline,16287.53,17145.86
+28-04-2023,1095,Laptop,Electronics,2,25688,51376,Female,33,2023,April,West,26-35,New,UPI,Offline,16715.02,17945.97
+29-04-2023,1003,Laptop,Electronics,1,2807,2807,Male,58,2023,April,South,46-60,Returning,Credit Card,Offline,1886.32,920.68
+30-04-2023,1093,Laptop,Electronics,3,40401,121203,Female,61,2023,April,South,60+,Returning,Debit Card,Offline,25671.22,44189.35
+30-04-2023,1022,Bag,Accessories,1,11705,11705,Male,58,2023,April,Central,46-60,New,Credit Card,Online,8716.99,2988.01
+01-05-2023,1014,Bag,Accessories,4,6406,25624,Male,24,2023,May,West,18-25,Returning,Credit Card,Online,4663.9,6968.4
+02-05-2023,1042,Mobile,Electronics,2,3091,6182,Male,31,2023,May,Central,26-35,New,Debit Card,Online,2116.55,1948.9
+03-05-2023,1028,Watch,Accessories,5,15649,78245,Male,46,2023,May,East,46-60,New,Cash,Online,10667.75,24906.26
+03-05-2023,1035,Clothes,Fashion,2,45418,90836,Male,36,2023,May,South,36-45,Returning,Debit Card,Offline,31634.61,27566.77
+04-05-2023,1012,Headphones,Electronics,4,40451,161804,Male,36,2023,May,Central,36-45,New,Debit Card,Online,27599.21,51407.15
+05-05-2023,1031,Bag,Accessories,2,25650,51300,Female,19,2023,May,East,18-25,Returning,Credit Card,Online,18447.33,14405.33
+05-05-2023,1070,Headphones,Electronics,2,32352,64704,Female,58,2023,May,Central,46-60,Returning,Cash,Online,23019.31,18665.38
+06-05-2023,1058,Watch,Accessories,4,43370,173480,Female,62,2023,May,West,60+,Returning,Debit Card,Offline,30401.42,51874.32
+07-05-2023,1085,Watch,Accessories,2,1783,3566,Male,32,2023,May,West,26-35,Returning,Debit Card,Offline,1413.36,739.27
+08-05-2023,1027,Headphones,Electronics,3,34191,102573,Male,20,2023,May,West,18-25,New,Debit Card,Offline,21846.96,37032.11
+08-05-2023,1065,Bag,Accessories,3,1625,4875,Female,28,2023,May,West,26-35,Returning,Debit Card,Online,1238.46,1159.62
+09-05-2023,1041,Headphones,Electronics,2,2029,4058,Male,63,2023,May,North,60+,New,Credit Card,Online,1370.96,1316.08
+10-05-2023,1044,Mobile,Electronics,5,26670,133350,Male,47,2023,May,East,46-60,Returning,Debit Card,Offline,20810.61,29296.93
+11-05-2023,1061,Shoes,Fashion,4,8938,35752,Male,57,2023,May,East,46-60,Returning,Cash,Online,6255.35,10730.59
+11-05-2023,1056,Bag,Accessories,3,20595,61785,Male,35,2023,May,West,26-35,New,UPI,Online,15325.09,15809.72
+12-05-2023,1005,Bag,Accessories,5,16654,83270,Male,19,2023,May,North,18-25,Returning,Credit Card,Online,12199.57,22272.16
+13-05-2023,1027,Clothes,Fashion,2,8504,17008,Female,49,2023,May,West,46-60,Returning,Cash,Offline,5893.49,5221.01
+13-05-2023,1027,Laptop,Electronics,5,10252,51260,Female,25,2023,May,North,18-25,New,Debit Card,Offline,7320.56,14657.22
+14-05-2023,1043,Shoes,Fashion,1,43860,43860,Female,39,2023,May,West,36-45,New,UPI,Online,26379.7,17480.3
+15-05-2023,1083,Watch,Accessories,3,27319,81957,Female,23,2023,May,South,18-25,New,UPI,Online,16736.47,31747.58
+16-05-2023,1029,Bag,Accessories,2,37132,74264,Female,29,2023,May,South,26-35,Returning,UPI,Online,23265.23,27733.55
+16-05-2023,1061,Headphones,Electronics,4,27015,108060,Male,64,2023,May,Central,60+,Returning,Debit Card,Offline,19272.24,30971.04
+17-05-2023,1074,Shoes,Fashion,2,24717,49434,Male,57,2023,May,West,46-60,Returning,UPI,Offline,15846.75,17740.51
+18-05-2023,1091,Clothes,Fashion,4,23672,94688,Male,53,2023,May,East,46-60,New,UPI,Online,14300.49,37486.05
+19-05-2023,1088,Watch,Accessories,2,33494,66988,Male,32,2023,May,Central,26-35,New,Cash,Offline,22469.16,22049.67
+19-05-2023,1061,Laptop,Electronics,5,15536,77680,Female,45,2023,May,South,36-45,New,Debit Card,Offline,9595.55,29702.24
+20-05-2023,1096,Laptop,Electronics,5,12239,61195,Female,62,2023,May,West,60+,New,Debit Card,Online,7516.84,23610.78
+21-05-2023,1000,Clothes,Fashion,5,32720,163600,Female,35,2023,May,Central,26-35,Returning,Debit Card,Online,22955.34,48823.31
+22-05-2023,1026,Clothes,Fashion,1,49916,49916,Male,19,2023,May,West,18-25,Returning,UPI,Online,38182.55,11733.45
+22-05-2023,1061,Headphones,Electronics,4,10087,40348,Female,30,2023,May,South,26-35,New,Debit Card,Offline,7081.24,12023.05
+23-05-2023,1076,Bag,Accessories,5,45017,225085,Male,62,2023,May,Central,60+,Returning,Credit Card,Offline,35771.84,46225.81
+24-05-2023,1002,Laptop,Electronics,1,30629,30629,Female,32,2023,May,South,26-35,Returning,Debit Card,Offline,18408.55,12220.45
+24-05-2023,1069,Watch,Accessories,4,1145,4580,Female,37,2023,May,North,36-45,Returning,Credit Card,Online,825.61,1277.57
+25-05-2023,1071,Shoes,Fashion,2,31430,62860,Male,46,2023,May,South,46-60,New,Cash,Online,19338.43,24183.14
+26-05-2023,1026,Watch,Accessories,1,16799,16799,Male,59,2023,May,West,46-60,New,Debit Card,Online,10770.21,6028.79
+27-05-2023,1008,Mobile,Electronics,3,30590,91770,Female,46,2023,May,East,46-60,Returning,UPI,Online,20701.41,29665.76
+27-05-2023,1061,Mobile,Electronics,1,22453,22453,Female,20,2023,May,South,18-25,New,Credit Card,Offline,14070.56,8382.44
+28-05-2023,1036,Clothes,Fashion,1,46943,46943,Male,36,2023,May,East,36-45,Returning,UPI,Offline,32338.58,14604.42
+29-05-2023,1096,Headphones,Electronics,4,26975,107900,Female,20,2023,May,North,18-25,New,Cash,Online,19355.58,30477.69
+30-05-2023,1050,Mobile,Electronics,2,19388,38776,Female,31,2023,May,Central,26-35,Returning,Cash,Offline,13338.6,12098.81
+30-05-2023,1043,Laptop,Electronics,3,44232,132696,Male,57,2023,May,Central,46-60,Returning,Credit Card,Offline,32336.11,35687.66
+31-05-2023,1023,Watch,Accessories,5,16587,82935,Female,21,2023,May,East,18-25,Returning,Cash,Offline,12801.01,18929.94
+01-06-2023,1078,Watch,Accessories,5,46805,234025,Male,28,2023,June,Central,26-35,New,Credit Card,Online,29009.77,88976.17
+01-06-2023,1058,Clothes,Fashion,1,46537,46537,Female,48,2023,June,South,46-60,New,Cash,Online,36186.4,10350.6
+02-06-2023,1031,Bag,Accessories,4,9846,39384,Male,60,2023,June,East,46-60,New,UPI,Offline,7646.82,8796.72
+03-06-2023,1095,Bag,Accessories,4,1087,4348,Female,49,2023,June,West,46-60,Returning,Cash,Online,698.16,1555.36
+04-06-2023,1087,Shoes,Fashion,5,13263,66315,Male,44,2023,June,South,36-45,Returning,Credit Card,Offline,8585.96,23385.2
+04-06-2023,1051,Clothes,Fashion,3,42445,127335,Female,47,2023,June,South,46-60,Returning,UPI,Offline,29872.74,37716.79
+05-06-2023,1061,Shoes,Fashion,2,4579,9158,Male,60,2023,June,South,46-60,Returning,Cash,Offline,2894.07,3369.86
+06-06-2023,1057,Bag,Accessories,3,36616,109848,Female,19,2023,June,West,18-25,Returning,Cash,Online,22425.99,42570.02
+07-06-2023,1051,Clothes,Fashion,2,20715,41430,Female,26,2023,June,North,26-35,New,Credit Card,Offline,13551.76,14326.49
+07-06-2023,1011,Clothes,Fashion,5,26317,131585,Female,45,2023,June,Central,36-45,Returning,UPI,Offline,20583.3,28668.51
+08-06-2023,1038,Clothes,Fashion,2,25265,50530,Female,48,2023,June,East,46-60,New,Credit Card,Offline,17890.17,14749.66
+09-06-2023,1001,Bag,Accessories,4,30612,122448,Female,51,2023,June,North,46-60,Returning,Credit Card,Online,23228.92,29532.32
+10-06-2023,1002,Shoes,Fashion,1,26056,26056,Female,32,2023,June,East,26-35,Returning,Credit Card,Offline,18646.18,7409.82
+10-06-2023,1055,Shoes,Fashion,1,18599,18599,Female,42,2023,June,Central,36-45,Returning,Debit Card,Online,13986.5,4612.5
+11-06-2023,1080,Clothes,Fashion,5,44053,220265,Female,53,2023,June,West,46-60,Returning,Debit Card,Offline,33361.4,53458
+12-06-2023,1058,Mobile,Electronics,4,45596,182384,Female,25,2023,June,South,18-25,New,Debit Card,Online,29297.34,65194.62
+12-06-2023,1001,Headphones,Electronics,3,6950,20850,Male,26,2023,June,South,26-35,Returning,Cash,Offline,4865.38,6253.87
+13-06-2023,1001,Bag,Accessories,4,13730,54920,Male,54,2023,June,West,46-60,New,Debit Card,Offline,8789.28,19762.88
+14-06-2023,1091,Headphones,Electronics,1,29509,29509,Female,62,2023,June,North,60+,Returning,Debit Card,Offline,21055.14,8453.86
+15-06-2023,1053,Headphones,Electronics,1,5933,5933,Male,56,2023,June,North,46-60,Returning,Debit Card,Online,4587.06,1345.94
+15-06-2023,1086,Shoes,Fashion,4,34366,137464,Female,49,2023,June,East,46-60,Returning,UPI,Offline,25461.05,35619.79
+16-06-2023,1095,Shoes,Fashion,4,40364,161456,Female,34,2023,June,West,26-35,Returning,Credit Card,Online,27741.75,50489.01
+17-06-2023,1096,Mobile,Electronics,1,19210,19210,Male,52,2023,June,North,46-60,New,Cash,Offline,11832.16,7377.84
+18-06-2023,1000,Headphones,Electronics,3,11939,35817,Female,54,2023,June,West,46-60,Returning,UPI,Offline,8113.55,11476.34
+18-06-2023,1018,Headphones,Electronics,5,42355,211775,Female,36,2023,June,Central,36-45,Returning,Cash,Offline,26111.12,81219.41
+19-06-2023,1001,Clothes,Fashion,5,16521,82605,Male,61,2023,June,South,60+,New,Credit Card,Online,10971.61,27746.93
+20-06-2023,1052,Shoes,Fashion,4,6916,27664,Male,46,2023,June,South,46-60,Returning,Cash,Offline,5497.61,5673.54
+20-06-2023,1043,Headphones,Electronics,5,7480,37400,Female,24,2023,June,South,18-25,New,Debit Card,Offline,4973.32,12533.39
+21-06-2023,1089,Watch,Accessories,1,18558,18558,Male,45,2023,June,West,36-45,Returning,Cash,Online,12199.14,6358.86
+22-06-2023,1031,Mobile,Electronics,1,11601,11601,Male,26,2023,June,West,26-35,New,UPI,Online,7133.8,4467.2
+23-06-2023,1069,Watch,Accessories,4,41218,164872,Female,45,2023,June,East,36-45,Returning,Debit Card,Offline,29807.96,45640.15
+23-06-2023,1031,Watch,Accessories,4,33102,132408,Male,23,2023,June,South,18-25,Returning,UPI,Online,25681.94,29680.23
+24-06-2023,1067,Bag,Accessories,4,9622,38488,Male,46,2023,June,East,46-60,Returning,Credit Card,Online,7516.27,8422.91
+25-06-2023,1054,Bag,Accessories,3,13076,39228,Female,34,2023,June,South,26-35,Returning,Debit Card,Online,10157.25,8756.24
+26-06-2023,1074,Mobile,Electronics,5,28016,140080,Male,33,2023,June,East,26-35,New,Credit Card,Offline,21802.66,31066.7
+26-06-2023,1055,Watch,Accessories,4,22933,91732,Male,40,2023,June,East,36-45,Returning,Credit Card,Offline,16446.25,25947
+27-06-2023,1016,Headphones,Electronics,2,1589,3178,Female,48,2023,June,Central,46-60,New,Cash,Offline,1160.88,856.23
+28-06-2023,1037,Shoes,Fashion,2,37846,75692,Female,20,2023,June,East,18-25,Returning,Cash,Online,26986.33,21719.34
+29-06-2023,1023,Mobile,Electronics,1,9627,9627,Female,38,2023,June,West,36-45,Returning,UPI,Offline,6092.26,3534.74
+29-06-2023,1068,Clothes,Fashion,5,10987,54935,Male,43,2023,June,East,36-45,New,Debit Card,Online,7684.1,16514.51
+30-06-2023,1097,Watch,Accessories,4,655,2620,Female,53,2023,June,South,46-60,Returning,Credit Card,Online,406.43,994.29
+01-07-2023,1069,Mobile,Electronics,2,2458,4916,Female,59,2023,July,East,46-60,New,Credit Card,Online,1556.3,1803.39
+01-07-2023,1085,Laptop,Electronics,5,11193,55965,Male,54,2023,July,North,46-60,New,Debit Card,Offline,6893.14,21499.3
+02-07-2023,1010,Laptop,Electronics,1,39612,39612,Female,39,2023,July,South,36-45,Returning,UPI,Online,27908.32,11703.68
+03-07-2023,1015,Bag,Accessories,3,39047,117141,Female,59,2023,July,North,46-60,Returning,Debit Card,Offline,30642.46,25213.62
+04-07-2023,1096,Shoes,Fashion,5,29295,146475,Female,29,2023,July,South,26-35,Returning,Debit Card,Online,18508.78,53931.12
+04-07-2023,1072,Headphones,Electronics,5,21947,109735,Female,59,2023,July,West,46-60,Returning,Credit Card,Online,16507.45,27197.77
+05-07-2023,1058,Shoes,Fashion,3,37098,111294,Male,30,2023,July,West,26-35,New,Debit Card,Online,26572.96,31575.11
+06-07-2023,1069,Shoes,Fashion,5,42314,211570,Female,28,2023,July,West,26-35,Returning,Debit Card,Online,30132.56,60907.22
+07-07-2023,1079,Shoes,Fashion,1,25715,25715,Female,33,2023,July,North,26-35,Returning,UPI,Online,16478.75,9236.25
+07-07-2023,1092,Shoes,Fashion,1,10294,10294,Male,25,2023,July,Central,18-25,Returning,Credit Card,Online,7882.56,2411.44
+08-07-2023,1002,Clothes,Fashion,3,33709,101127,Female,57,2023,July,South,46-60,New,Credit Card,Online,23222.89,31458.34
+09-07-2023,1019,Clothes,Fashion,4,22924,91696,Male,57,2023,July,West,46-60,New,Debit Card,Offline,17954.15,19879.41
+09-07-2023,1058,Bag,Accessories,2,47746,95492,Male,62,2023,July,South,60+,Returning,UPI,Offline,32557.82,30376.35
+10-07-2023,1035,Mobile,Electronics,4,37896,151584,Male,19,2023,July,North,18-25,New,Cash,Offline,23655.29,56962.83
+11-07-2023,1018,Laptop,Electronics,5,6870,34350,Female,47,2023,July,Central,46-60,New,UPI,Online,4170.86,13495.69
+12-07-2023,1089,Shoes,Fashion,2,10028,20056,Male,47,2023,July,North,46-60,New,Cash,Offline,6588.97,6878.06
+12-07-2023,1066,Bag,Accessories,3,28776,86328,Male,29,2023,July,South,26-35,Returning,Cash,Offline,17613.34,33487.97
+13-07-2023,1018,Mobile,Electronics,3,44833,134499,Male,27,2023,July,Central,26-35,New,Debit Card,Offline,28647.42,48556.74
+14-07-2023,1019,Laptop,Electronics,2,8679,17358,Female,61,2023,July,Central,60+,Returning,Cash,Online,6687.48,3983.04
+15-07-2023,1095,Watch,Accessories,1,49281,49281,Female,28,2023,July,North,26-35,Returning,Cash,Offline,35250.97,14030.03
+15-07-2023,1070,Headphones,Electronics,2,17343,34686,Female,32,2023,July,West,26-35,New,UPI,Online,12657.48,9371.04
+16-07-2023,1051,Clothes,Fashion,5,24452,122260,Female,33,2023,July,South,26-35,Returning,UPI,Online,16649.46,39012.69
+17-07-2023,1032,Watch,Accessories,1,33660,33660,Female,34,2023,July,East,26-35,Returning,UPI,Online,21508.12,12151.88
+18-07-2023,1039,Laptop,Electronics,3,45398,136194,Female,43,2023,July,East,36-45,Returning,Debit Card,Online,35612.59,29356.22
+18-07-2023,1038,Watch,Accessories,2,30016,60032,Female,19,2023,July,North,18-25,Returning,Cash,Offline,20941.2,18149.61
+19-07-2023,1081,Headphones,Electronics,4,10949,43796,Male,29,2023,July,South,26-35,New,Cash,Offline,7789.17,12639.34
+20-07-2023,1000,Bag,Accessories,4,21625,86500,Male,43,2023,July,South,36-45,New,Credit Card,Offline,15148.43,25906.3
+20-07-2023,1010,Laptop,Electronics,5,7918,39590,Male,40,2023,July,North,36-45,New,Debit Card,Offline,5403.28,12573.62
+21-07-2023,1091,Watch,Accessories,4,23246,92984,Male,35,2023,July,South,26-35,Returning,Credit Card,Offline,16373.1,27491.61
+22-07-2023,1056,Clothes,Fashion,2,2954,5908,Female,49,2023,July,West,46-60,Returning,Credit Card,Offline,2190.05,1527.9
+23-07-2023,1088,Clothes,Fashion,2,18261,36522,Male,55,2023,July,North,46-60,New,Cash,Offline,13202.33,10117.34
+23-07-2023,1049,Mobile,Electronics,4,15723,62892,Male,64,2023,July,West,60+,Returning,Cash,Online,10235.05,21951.81
+24-07-2023,1022,Watch,Accessories,2,7201,14402,Male,20,2023,July,South,18-25,New,Credit Card,Online,5078.82,4244.36
+25-07-2023,1030,Shoes,Fashion,5,3097,15485,Male,55,2023,July,North,46-60,New,Credit Card,Online,2063.08,5169.61
+26-07-2023,1093,Watch,Accessories,1,641,641,Female,20,2023,July,South,18-25,New,Cash,Offline,450.52,190.48
+26-07-2023,1041,Bag,Accessories,5,3159,15795,Female,47,2023,July,North,46-60,New,Cash,Offline,2324.62,4171.9
+27-07-2023,1098,Laptop,Electronics,5,21480,107400,Female,18,2023,July,South,18-25,New,Cash,Offline,16599.39,24403.06
+28-07-2023,1006,Laptop,Electronics,2,9531,19062,Male,47,2023,July,West,46-60,Returning,Cash,Offline,7034.04,4993.92
+28-07-2023,1015,Bag,Accessories,1,15537,15537,Female,62,2023,July,West,60+,Returning,Debit Card,Online,9929.84,5607.16
+29-07-2023,1089,Watch,Accessories,2,47238,94476,Male,49,2023,July,South,46-60,New,Credit Card,Online,30935.08,32605.84
+30-07-2023,1059,Bag,Accessories,3,38929,116787,Female,45,2023,July,North,36-45,Returning,Debit Card,Online,24064.17,44594.5
+31-07-2023,1001,Headphones,Electronics,2,6642,13284,Female,38,2023,July,East,36-45,Returning,Debit Card,Offline,4681.35,3921.29
+31-07-2023,1000,Bag,Accessories,2,12609,25218,Female,63,2023,July,West,60+,New,Debit Card,Online,9751.99,5714.03
+01-08-2023,1047,Clothes,Fashion,2,22510,45020,Female,30,2023,August,West,26-35,New,Debit Card,Online,17195.37,10629.27
+02-08-2023,1011,Bag,Accessories,1,9287,9287,Female,44,2023,August,East,36-45,Returning,Cash,Online,6303.16,2983.84
+03-08-2023,1068,Laptop,Electronics,2,43364,86728,Male,53,2023,August,South,46-60,New,Debit Card,Offline,29134.71,28458.58
+03-08-2023,1036,Clothes,Fashion,1,8972,8972,Female,24,2023,August,North,18-25,Returning,Credit Card,Offline,6994.79,1977.21
+04-08-2023,1031,Laptop,Electronics,4,23883,95532,Male,39,2023,August,South,36-45,New,Cash,Offline,16217.49,30662.05
+05-08-2023,1008,Mobile,Electronics,3,4749,14247,Male,27,2023,August,Central,26-35,Returning,Credit Card,Offline,3291.97,4371.09
+06-08-2023,1098,Shoes,Fashion,1,48217,48217,Male,56,2023,August,West,46-60,Returning,Credit Card,Offline,37213.9,11003.1
+06-08-2023,1018,Laptop,Electronics,4,35018,140072,Male,32,2023,August,Central,26-35,New,Credit Card,Offline,27474.37,30174.52
+07-08-2023,1047,Clothes,Fashion,1,18851,18851,Male,32,2023,August,West,26-35,New,UPI,Offline,11898.51,6952.49
+08-08-2023,1079,Mobile,Electronics,1,4588,4588,Female,21,2023,August,West,18-25,New,Credit Card,Online,2884.02,1703.98
+08-08-2023,1002,Laptop,Electronics,3,15782,47346,Female,49,2023,August,Central,46-60,Returning,Cash,Online,10633.26,15446.22
+09-08-2023,1019,Headphones,Electronics,5,19830,99150,Female,40,2023,August,Central,36-45,New,Credit Card,Online,13848.96,29905.22
+10-08-2023,1023,Bag,Accessories,5,42909,214545,Female,23,2023,August,South,18-25,Returning,Cash,Offline,25915.83,84965.85
+11-08-2023,1053,Shoes,Fashion,1,22278,22278,Male,41,2023,August,Central,36-45,Returning,Debit Card,Online,16309.49,5968.51
+11-08-2023,1032,Laptop,Electronics,2,24764,49528,Female,37,2023,August,South,36-45,New,Credit Card,Online,17069.26,15389.48
+12-08-2023,1023,Mobile,Electronics,4,5575,22300,Female,54,2023,August,South,46-60,New,Credit Card,Online,3439.95,8540.18
+13-08-2023,1074,Headphones,Electronics,2,10912,21824,Male,37,2023,August,South,36-45,New,Credit Card,Offline,7866.41,6091.19
+14-08-2023,1071,Watch,Accessories,2,48954,97908,Male,29,2023,August,West,26-35,New,UPI,Offline,31732.4,34443.2
+14-08-2023,1035,Mobile,Electronics,1,28865,28865,Female,50,2023,August,West,46-60,Returning,Credit Card,Online,23013.96,5851.04
+15-08-2023,1037,Bag,Accessories,1,7730,7730,Female,45,2023,August,Central,36-45,Returning,Debit Card,Online,5768.48,1961.52
+16-08-2023,1083,Mobile,Electronics,1,48700,48700,Male,25,2023,August,West,18-25,Returning,Cash,Online,37856.64,10843.36
+16-08-2023,1098,Headphones,Electronics,1,11502,11502,Female,18,2023,August,Central,18-25,Returning,Credit Card,Offline,8175.81,3326.19
+17-08-2023,1088,Mobile,Electronics,5,14447,72235,Female,54,2023,August,West,46-60,New,Cash,Offline,10487.83,19795.84
+18-08-2023,1098,Headphones,Electronics,1,14186,14186,Female,39,2023,August,North,36-45,Returning,Debit Card,Online,8924.06,5261.94
+19-08-2023,1024,Laptop,Electronics,5,29804,149020,Female,23,2023,August,North,18-25,Returning,Credit Card,Online,19988.34,49078.32
+19-08-2023,1092,Headphones,Electronics,5,13574,67870,Male,38,2023,August,Central,36-45,New,UPI,Online,8396.49,25887.56
+20-08-2023,1017,Headphones,Electronics,1,4993,4993,Male,49,2023,August,West,46-60,Returning,Cash,Offline,3776.25,1216.75
+21-08-2023,1081,Shoes,Fashion,3,34728,104184,Male,52,2023,August,West,46-60,Returning,Debit Card,Offline,24404.06,30971.82
+22-08-2023,1065,Headphones,Electronics,4,14640,58560,Female,32,2023,August,South,26-35,New,Debit Card,Online,10300.01,17359.97
+22-08-2023,1053,Headphones,Electronics,2,32155,64310,Female,22,2023,August,East,18-25,New,Credit Card,Offline,19294.07,25721.87
+23-08-2023,1034,Watch,Accessories,5,43972,219860,Female,63,2023,August,Central,60+,Returning,UPI,Online,28876.25,75478.75
+24-08-2023,1079,Laptop,Electronics,4,49937,199748,Female,23,2023,August,East,18-25,New,Cash,Online,37457.64,49917.44
+25-08-2023,1060,Bag,Accessories,3,49916,149748,Female,42,2023,August,East,36-45,Returning,UPI,Offline,32285.8,52890.59
+25-08-2023,1040,Shoes,Fashion,2,7316,14632,Male,63,2023,August,Central,60+,New,UPI,Online,5753.65,3124.7
+26-08-2023,1099,Watch,Accessories,2,12139,24278,Female,57,2023,August,West,46-60,Returning,UPI,Offline,8092.53,8092.95
+27-08-2023,1032,Clothes,Fashion,5,47692,238460,Female,46,2023,August,Central,46-60,Returning,Credit Card,Online,31247.15,82224.27
+27-08-2023,1067,Laptop,Electronics,1,47233,47233,Male,24,2023,August,East,18-25,Returning,Debit Card,Offline,33364.52,13868.48
+28-08-2023,1032,Laptop,Electronics,3,29992,89976,Female,57,2023,August,West,46-60,New,Cash,Online,18676.17,33947.48
+29-08-2023,1013,Clothes,Fashion,5,11740,58700,Male,30,2023,August,North,26-35,New,Cash,Online,7947.27,18963.66
+30-08-2023,1020,Bag,Accessories,3,33198,99594,Male,55,2023,August,Central,46-60,New,Credit Card,Online,22282.13,32747.62
+30-08-2023,1047,Headphones,Electronics,1,27457,27457,Male,35,2023,August,Central,26-35,New,Cash,Online,16572.07,10884.93
+31-08-2023,1019,Watch,Accessories,1,33308,33308,Male,19,2023,August,West,18-25,Returning,UPI,Online,24570.92,8737.08
+01-09-2023,1007,Mobile,Electronics,5,6327,31635,Male,25,2023,September,North,18-25,Returning,Debit Card,Offline,4694.68,8161.62
+02-09-2023,1006,Shoes,Fashion,1,33262,33262,Female,28,2023,September,North,26-35,New,Cash,Offline,22843.81,10418.19
+02-09-2023,1066,Mobile,Electronics,4,8759,35036,Male,50,2023,September,West,46-60,Returning,UPI,Online,6545.73,8853.07
+03-09-2023,1016,Clothes,Fashion,2,15349,30698,Male,55,2023,September,South,46-60,Returning,Debit Card,Offline,12278.44,6141.11
+04-09-2023,1032,Laptop,Electronics,5,16732,83660,Female,44,2023,September,Central,36-45,New,UPI,Online,10342.91,31945.47
+04-09-2023,1047,Bag,Accessories,3,41072,123216,Female,37,2023,September,Central,36-45,Returning,Debit Card,Online,32054.98,27051.07
+05-09-2023,1075,Laptop,Electronics,4,24673,98692,Male,29,2023,September,East,26-35,Returning,Debit Card,Offline,19695.09,19911.64
+06-09-2023,1058,Shoes,Fashion,5,5874,29370,Female,60,2023,September,West,46-60,New,Credit Card,Online,4594.62,6396.89
+07-09-2023,1085,Laptop,Electronics,1,21674,21674,Female,48,2023,September,East,46-60,New,Debit Card,Offline,15027.63,6646.37
+07-09-2023,1021,Laptop,Electronics,1,24067,24067,Male,44,2023,September,East,36-45,Returning,UPI,Offline,16226.39,7840.61
+08-09-2023,1029,Shoes,Fashion,1,35792,35792,Male,49,2023,September,North,46-60,Returning,Cash,Offline,23224.1,12567.9
+09-09-2023,1037,Watch,Accessories,1,9777,9777,Female,27,2023,September,Central,26-35,Returning,Cash,Offline,6795.43,2981.57
+10-09-2023,1050,Watch,Accessories,3,32100,96300,Male,20,2023,September,East,18-25,Returning,Debit Card,Offline,19321.41,38335.77
+10-09-2023,1053,Shoes,Fashion,4,10385,41540,Male,62,2023,September,North,60+,Returning,Credit Card,Offline,8166.75,8873.01
+11-09-2023,1007,Bag,Accessories,2,1278,2556,Female,44,2023,September,West,36-45,Returning,Credit Card,Online,943.59,668.81
+12-09-2023,1026,Clothes,Fashion,3,29665,88995,Male,52,2023,September,East,46-60,New,Cash,Online,17874.61,35371.18
+13-09-2023,1026,Laptop,Electronics,3,1992,5976,Male,48,2023,September,Central,46-60,New,Debit Card,Online,1204.52,2362.43
+13-09-2023,1097,Bag,Accessories,2,30962,61924,Male,32,2023,September,East,26-35,New,Debit Card,Online,21930.78,18062.45
+14-09-2023,1020,Laptop,Electronics,2,14115,28230,Male,33,2023,September,West,26-35,New,Debit Card,Online,9641.57,8946.86
+15-09-2023,1029,Clothes,Fashion,1,45400,45400,Male,30,2023,September,East,26-35,Returning,Debit Card,Offline,28114.81,17285.19
+15-09-2023,1096,Watch,Accessories,3,43446,130338,Female,52,2023,September,Central,46-60,Returning,Debit Card,Offline,29451.21,41984.36
+16-09-2023,1027,Bag,Accessories,5,8351,41755,Female,28,2023,September,North,26-35,Returning,Credit Card,Online,6571.69,8896.55
+17-09-2023,1063,Headphones,Electronics,2,16788,33576,Male,38,2023,September,Central,36-45,New,Credit Card,Online,12340.12,8895.76
+18-09-2023,1096,Headphones,Electronics,2,7656,15312,Female,28,2023,September,North,26-35,Returning,Credit Card,Online,5787.65,3736.7
+18-09-2023,1068,Headphones,Electronics,4,2544,10176,Male,47,2023,September,South,46-60,New,UPI,Online,1627.14,3667.43
+19-09-2023,1060,Watch,Accessories,5,7868,39340,Male,52,2023,September,Central,46-60,New,Cash,Online,5625.39,11213.04
+20-09-2023,1047,Watch,Accessories,5,20400,102000,Male,39,2023,September,Central,36-45,New,Credit Card,Online,15684.17,23579.16
+21-09-2023,1018,Clothes,Fashion,2,31100,62200,Male,55,2023,September,West,46-60,New,Cash,Online,24065.82,14068.35
+21-09-2023,1003,Laptop,Electronics,1,46903,46903,Male,48,2023,September,East,46-60,New,Credit Card,Online,32865.89,14037.11
+22-09-2023,1034,Clothes,Fashion,4,26134,104536,Female,31,2023,September,North,26-35,Returning,Debit Card,Online,17031.84,36408.64
+23-09-2023,1063,Clothes,Fashion,5,9668,48340,Female,41,2023,September,North,36-45,Returning,Debit Card,Offline,6857.49,14052.56
+23-09-2023,1048,Watch,Accessories,2,21461,42922,Male,49,2023,September,West,46-60,New,Credit Card,Online,14834.87,13252.25
+24-09-2023,1016,Headphones,Electronics,5,44596,222980,Female,53,2023,September,West,46-60,Returning,Cash,Offline,34860.82,48675.89
+25-09-2023,1043,Mobile,Electronics,4,46587,186348,Male,49,2023,September,East,46-60,New,Debit Card,Offline,34925.17,46647.32
+26-09-2023,1091,Laptop,Electronics,4,24352,97408,Female,32,2023,September,East,26-35,New,UPI,Online,18587.39,23058.46
+26-09-2023,1029,Watch,Accessories,3,33610,100830,Male,60,2023,September,Central,46-60,New,UPI,Offline,24310.04,27899.87
+27-09-2023,1092,Headphones,Electronics,2,32674,65348,Female,52,2023,September,South,46-60,New,Cash,Offline,20166.54,25014.91
+28-09-2023,1045,Bag,Accessories,4,34715,138860,Male,20,2023,September,East,18-25,New,UPI,Online,24870.59,39377.62
+29-09-2023,1005,Mobile,Electronics,3,27455,82365,Male,33,2023,September,West,26-35,Returning,UPI,Online,19394.31,24182.06
+29-09-2023,1098,Mobile,Electronics,3,7081,21243,Female,22,2023,September,East,18-25,New,Debit Card,Online,5472.76,4824.71
+30-09-2023,1036,Watch,Accessories,5,45119,225595,Female,38,2023,September,North,36-45,New,UPI,Online,29644.45,77372.76
+01-10-2023,1023,Shoes,Fashion,5,6817,34085,Male,27,2023,October,South,26-35,New,UPI,Offline,5048.21,8843.95
+02-10-2023,1092,Laptop,Electronics,3,43356,130068,Female,36,2023,October,Central,36-45,New,Credit Card,Online,32775.66,31741.01
+02-10-2023,1045,Mobile,Electronics,5,46214,231070,Male,42,2023,October,North,36-45,Returning,Debit Card,Offline,33453.42,63802.91
+03-10-2023,1052,Watch,Accessories,4,27149,108596,Female,21,2023,October,North,18-25,New,Cash,Online,16966.75,40729.01
+04-10-2023,1094,Watch,Accessories,1,23632,23632,Female,46,2023,October,South,46-60,Returning,UPI,Offline,14922.69,8709.31
+04-10-2023,1098,Headphones,Electronics,4,17289,69156,Male,36,2023,October,Central,36-45,Returning,UPI,Offline,13637.08,14607.69
+05-10-2023,1059,Bag,Accessories,3,15067,45201,Female,60,2023,October,West,46-60,New,UPI,Online,9597.29,16409.14
+06-10-2023,1096,Shoes,Fashion,3,15368,46104,Female,19,2023,October,Central,18-25,New,UPI,Offline,10950,13254.01
+07-10-2023,1062,Laptop,Electronics,4,24870,99480,Male,27,2023,October,East,26-35,Returning,Cash,Offline,16358.18,34047.29
+07-10-2023,1084,Clothes,Fashion,5,43033,215165,Female,60,2023,October,North,46-60,Returning,UPI,Offline,28890.97,70710.17
+08-10-2023,1031,Bag,Accessories,5,30983,154915,Male,42,2023,October,East,36-45,New,Debit Card,Online,22752.16,41154.21
+09-10-2023,1086,Bag,Accessories,3,12966,38898,Male,37,2023,October,West,36-45,New,Credit Card,Offline,7980.26,14957.22
+10-10-2023,1032,Headphones,Electronics,2,29303,58606,Male,36,2023,October,East,36-45,Returning,Credit Card,Offline,21886.99,14832.03
+10-10-2023,1066,Mobile,Electronics,5,18730,93650,Male,40,2023,October,Central,36-45,New,UPI,Online,13452.64,26386.82
+11-10-2023,1017,Mobile,Electronics,4,18362,73448,Male,41,2023,October,East,36-45,New,Debit Card,Online,12422.32,23758.7
+12-10-2023,1024,Headphones,Electronics,5,43855,219275,Female,28,2023,October,West,26-35,New,Debit Card,Online,32170.24,58423.78
+12-10-2023,1094,Watch,Accessories,4,31759,127036,Male,63,2023,October,West,60+,New,Debit Card,Offline,20800.75,43832.99
+13-10-2023,1053,Mobile,Electronics,3,34039,102117,Male,51,2023,October,West,46-60,Returning,Cash,Online,26197.43,23524.71
+14-10-2023,1057,Shoes,Fashion,5,22409,112045,Female,45,2023,October,Central,36-45,Returning,Cash,Online,13778.08,43154.58
+15-10-2023,1066,Laptop,Electronics,4,31295,125180,Female,22,2023,October,West,18-25,New,Debit Card,Online,20768.93,42104.3
+15-10-2023,1045,Bag,Accessories,3,49568,148704,Female,22,2023,October,North,18-25,Returning,Cash,Offline,34049.69,46554.93
+16-10-2023,1023,Bag,Accessories,2,9270,18540,Male,38,2023,October,West,36-45,New,Cash,Offline,6583.93,5372.13
+17-10-2023,1031,Shoes,Fashion,4,11593,46372,Male,29,2023,October,East,26-35,Returning,UPI,Offline,8146.94,13784.23
+18-10-2023,1046,Mobile,Electronics,2,47071,94142,Male,21,2023,October,East,18-25,New,Cash,Offline,36783.73,20574.53
+18-10-2023,1085,Bag,Accessories,2,693,1386,Female,59,2023,October,East,46-60,New,Debit Card,Online,458.8,468.4
+19-10-2023,1022,Clothes,Fashion,1,35275,35275,Male,37,2023,October,Central,36-45,Returning,Debit Card,Offline,23027.95,12247.05
+20-10-2023,1065,Laptop,Electronics,5,18069,90345,Female,55,2023,October,East,46-60,New,Cash,Online,12526.55,27712.25
+21-10-2023,1026,Laptop,Electronics,4,11690,46760,Male,42,2023,October,Central,36-45,Returning,Debit Card,Online,8904.35,11142.59
+21-10-2023,1001,Bag,Accessories,2,43252,86504,Female,31,2023,October,Central,26-35,Returning,Credit Card,Online,28959.38,28585.25
+22-10-2023,1089,Headphones,Electronics,1,32827,32827,Male,28,2023,October,West,26-35,Returning,Cash,Online,24917.22,7909.78
+23-10-2023,1016,Bag,Accessories,3,42570,127710,Male,49,2023,October,North,46-60,Returning,UPI,Online,27493.46,45229.61
+23-10-2023,1032,Headphones,Electronics,4,20889,83556,Male,28,2023,October,West,26-35,New,UPI,Online,15852.6,20145.58
+24-10-2023,1008,Bag,Accessories,2,40697,81394,Female,35,2023,October,West,26-35,New,Cash,Online,25012,31369.99
+25-10-2023,1042,Clothes,Fashion,5,2761,13805,Female,44,2023,October,Central,36-45,New,Debit Card,Offline,1671.98,5445.11
+26-10-2023,1047,Watch,Accessories,1,28869,28869,Male,35,2023,October,Central,26-35,New,UPI,Offline,20539.7,8329.3
+26-10-2023,1038,Laptop,Electronics,2,27012,54024,Male,40,2023,October,East,36-45,New,Debit Card,Offline,20631.81,12760.38
+27-10-2023,1092,Bag,Accessories,5,7216,36080,Male,28,2023,October,East,26-35,New,Cash,Offline,5337.24,9393.82
+28-10-2023,1041,Clothes,Fashion,2,21759,43518,Female,38,2023,October,West,36-45,Returning,Credit Card,Online,15517.28,12483.44
+29-10-2023,1025,Headphones,Electronics,4,29433,117732,Male,61,2023,October,South,60+,Returning,Cash,Online,22090.95,29368.21
+29-10-2023,1098,Headphones,Electronics,4,42189,168756,Male,22,2023,October,South,18-25,New,Credit Card,Offline,26962.43,60906.29
+30-10-2023,1049,Laptop,Electronics,4,4878,19512,Male,40,2023,October,East,36-45,Returning,Cash,Online,3295.35,6330.58
+31-10-2023,1024,Shoes,Fashion,1,41083,41083,Male,58,2023,October,South,46-60,Returning,Cash,Offline,29618.73,11464.27
+31-10-2023,1023,Bag,Accessories,4,47046,188184,Female,42,2023,October,East,36-45,Returning,Debit Card,Online,35104.63,47765.5
+01-11-2023,1012,Mobile,Electronics,5,20335,101675,Female,58,2023,November,Central,46-60,Returning,Debit Card,Offline,15699.85,23175.73
+02-11-2023,1059,Headphones,Electronics,2,29533,59066,Male,27,2023,November,West,26-35,New,Debit Card,Online,20826.41,17413.18
+03-11-2023,1006,Watch,Accessories,3,24500,73500,Male,39,2023,November,North,36-45,Returning,Cash,Offline,15284.89,27645.32
+03-11-2023,1056,Watch,Accessories,5,45996,229980,Female,36,2023,November,West,36-45,New,UPI,Online,30110.99,79425.06
+04-11-2023,1035,Headphones,Electronics,5,10832,54160,Female,18,2023,November,East,18-25,Returning,UPI,Online,7231.4,18003.01
+05-11-2023,1044,Shoes,Fashion,4,43104,172416,Male,24,2023,November,East,18-25,Returning,Credit Card,Offline,33609.91,37976.35
+06-11-2023,1019,Shoes,Fashion,1,3300,3300,Female,21,2023,November,West,18-25,New,Credit Card,Offline,2471.7,828.3
+06-11-2023,1064,Clothes,Fashion,2,30038,60076,Female,18,2023,November,East,18-25,New,Cash,Offline,19234.3,21607.4
+07-11-2023,1007,Watch,Accessories,1,30619,30619,Male,32,2023,November,South,26-35,New,Debit Card,Offline,21051.55,9567.45
+08-11-2023,1015,Clothes,Fashion,2,8833,17666,Female,57,2023,November,South,46-60,Returning,UPI,Offline,6495.96,4674.09
+09-11-2023,1013,Watch,Accessories,2,5910,11820,Female,29,2023,November,East,26-35,Returning,UPI,Offline,4361.74,3096.51
+09-11-2023,1075,Bag,Accessories,1,18339,18339,Male,39,2023,November,East,36-45,Returning,Credit Card,Online,13857.5,4481.5
+10-11-2023,1086,Bag,Accessories,5,31019,155095,Male,39,2023,November,South,36-45,New,Credit Card,Offline,20018.23,55003.87
+11-11-2023,1014,Mobile,Electronics,2,6308,12616,Female,64,2023,November,East,60+,New,Cash,Offline,3931.32,4753.36
+11-11-2023,1091,Bag,Accessories,1,7296,7296,Male,34,2023,November,East,26-35,New,UPI,Offline,4977.29,2318.71
+12-11-2023,1097,Mobile,Electronics,2,21680,43360,Female,46,2023,November,West,46-60,New,UPI,Offline,16978.56,9402.87
+13-11-2023,1065,Bag,Accessories,3,43556,130668,Male,63,2023,November,North,60+,Returning,UPI,Online,29687.14,41606.58
+14-11-2023,1031,Laptop,Electronics,5,18209,91045,Female,31,2023,November,South,26-35,New,Cash,Offline,12837.88,26855.62
+14-11-2023,1086,Bag,Accessories,4,18043,72172,Male,37,2023,November,West,36-45,Returning,Debit Card,Online,11815.74,24909.04
+15-11-2023,1062,Clothes,Fashion,2,37918,75836,Female,50,2023,November,North,46-60,Returning,Debit Card,Online,27363.04,21109.92
+16-11-2023,1085,Headphones,Electronics,3,29575,88725,Female,60,2023,November,East,46-60,New,UPI,Offline,18180.19,34184.43
+17-11-2023,1050,Clothes,Fashion,4,38255,153020,Female,32,2023,November,East,26-35,Returning,Credit Card,Online,25334.71,51681.15
+17-11-2023,1024,Headphones,Electronics,4,48468,193872,Male,29,2023,November,West,26-35,New,Debit Card,Online,36342.57,48501.72
+18-11-2023,1057,Shoes,Fashion,2,37965,75930,Male,57,2023,November,East,46-60,New,Debit Card,Online,25965.54,23998.91
+19-11-2023,1062,Clothes,Fashion,1,31002,31002,Female,37,2023,November,Central,36-45,New,UPI,Online,21787.59,9214.41
+19-11-2023,1061,Shoes,Fashion,2,17224,34448,Female,47,2023,November,West,46-60,New,Credit Card,Online,11538.48,11371.05
+20-11-2023,1021,Mobile,Electronics,3,4328,12984,Male,55,2023,November,North,46-60,Returning,Credit Card,Offline,2655.96,5016.13
+21-11-2023,1057,Mobile,Electronics,4,17587,70348,Male,20,2023,November,West,18-25,Returning,Debit Card,Offline,12720.55,19465.82
+22-11-2023,1057,Laptop,Electronics,2,13105,26210,Male,45,2023,November,South,36-45,New,UPI,Online,9100.2,8009.61
+22-11-2023,1085,Bag,Accessories,1,31837,31837,Male,43,2023,November,West,36-45,Returning,Debit Card,Offline,22683.8,9153.2
+23-11-2023,1048,Clothes,Fashion,2,5982,11964,Male,47,2023,November,East,46-60,Returning,Debit Card,Online,4468.15,3027.7
+24-11-2023,1051,Shoes,Fashion,5,27505,137525,Male,30,2023,November,East,26-35,Returning,Debit Card,Online,17205.64,51496.79
+25-11-2023,1041,Headphones,Electronics,1,23260,23260,Female,30,2023,November,Central,26-35,Returning,UPI,Online,16344.17,6915.83
+25-11-2023,1069,Mobile,Electronics,3,5963,17889,Male,19,2023,November,Central,18-25,New,Debit Card,Online,4574.15,4166.56
+26-11-2023,1014,Bag,Accessories,4,47128,188512,Female,54,2023,November,Central,46-60,New,Cash,Offline,32788.4,57358.39
+27-11-2023,1053,Mobile,Electronics,2,5412,10824,Male,55,2023,November,North,46-60,New,UPI,Online,3722.26,3379.48
+28-11-2023,1059,Headphones,Electronics,1,5148,5148,Male,19,2023,November,Central,18-25,Returning,UPI,Online,3910.36,1237.64
+28-11-2023,1096,Bag,Accessories,5,34123,170615,Female,53,2023,November,North,46-60,Returning,UPI,Online,20819.87,66515.65
+29-11-2023,1007,Bag,Accessories,1,36134,36134,Female,43,2023,November,Central,36-45,Returning,Debit Card,Offline,23094.84,13039.16
+30-11-2023,1052,Shoes,Fashion,5,45102,225510,Male,28,2023,November,North,26-35,Returning,Cash,Offline,27560.44,87707.81
+30-11-2023,1059,Shoes,Fashion,3,49562,148686,Female,25,2023,November,West,18-25,New,UPI,Offline,38016.49,34636.53
+01-12-2023,1004,Clothes,Fashion,4,49834,199336,Female,61,2023,December,West,60+,New,Debit Card,Offline,30015.15,79275.4
+02-12-2023,1067,Clothes,Fashion,3,3612,10836,Female,57,2023,December,East,46-60,Returning,Credit Card,Offline,2285.29,3980.14
+03-12-2023,1005,Watch,Accessories,2,22554,45108,Female,60,2023,December,North,46-60,Returning,Credit Card,Offline,17211,10686.01
+03-12-2023,1095,Watch,Accessories,1,4992,4992,Male,39,2023,December,South,36-45,New,UPI,Offline,3910.35,1081.65
+04-12-2023,1093,Laptop,Electronics,5,22707,113535,Female,37,2023,December,East,36-45,New,Cash,Offline,15778.08,34644.61
+05-12-2023,1046,Mobile,Electronics,5,15614,78070,Male,25,2023,December,West,18-25,New,Credit Card,Offline,10357.98,26280.1
+06-12-2023,1098,Clothes,Fashion,1,34785,34785,Male,46,2023,December,North,46-60,Returning,Cash,Online,21740.08,13044.92
+06-12-2023,1054,Shoes,Fashion,1,16518,16518,Male,57,2023,December,Central,46-60,Returning,Cash,Offline,12424.25,4093.75
+07-12-2023,1039,Headphones,Electronics,2,21886,43772,Male,43,2023,December,South,36-45,New,Credit Card,Offline,15296.71,13178.59
+08-12-2023,1051,Shoes,Fashion,3,18240,54720,Female,47,2023,December,West,46-60,New,Cash,Offline,14381.15,11576.55
+08-12-2023,1015,Mobile,Electronics,5,44699,223495,Female,34,2023,December,East,26-35,New,Debit Card,Online,28164.67,82671.65
+09-12-2023,1012,Watch,Accessories,2,8710,17420,Male,37,2023,December,North,36-45,New,Cash,Offline,6760.19,3899.63
+10-12-2023,1029,Shoes,Fashion,3,44863,134589,Male,33,2023,December,South,26-35,New,Cash,Online,28467.56,49186.32
+11-12-2023,1018,Laptop,Electronics,2,46139,92278,Male,63,2023,December,North,60+,Returning,Credit Card,Online,36718.16,18841.67
+11-12-2023,1016,Mobile,Electronics,5,13243,66215,Male,60,2023,December,Central,46-60,Returning,Credit Card,Online,9900.57,16712.13
+12-12-2023,1062,Watch,Accessories,1,42592,42592,Female,24,2023,December,East,18-25,Returning,Credit Card,Online,27729.54,14862.46
+13-12-2023,1018,Headphones,Electronics,1,44799,44799,Male,33,2023,December,North,26-35,New,Credit Card,Offline,33070.97,11728.03
+14-12-2023,1091,Watch,Accessories,3,7088,21264,Female,62,2023,December,West,60+,Returning,Debit Card,Online,4978.74,6327.77
+14-12-2023,1057,Bag,Accessories,4,3811,15244,Male,64,2023,December,East,60+,Returning,Debit Card,Offline,2983.3,3310.81
+15-12-2023,1054,Laptop,Electronics,3,22932,68796,Male,44,2023,December,West,36-45,New,Debit Card,Online,13994.27,26813.18
+16-12-2023,1089,Mobile,Electronics,4,34255,137020,Male,40,2023,December,North,36-45,New,Debit Card,Offline,21379.28,51502.88
+17-12-2023,1089,Headphones,Electronics,2,3821,7642,Male,41,2023,December,East,36-45,Returning,UPI,Online,2816.6,2008.8
+17-12-2023,1061,Laptop,Electronics,2,16312,32624,Female,26,2023,December,West,26-35,Returning,Credit Card,Online,11483.5,9657
+18-12-2023,1022,Watch,Accessories,5,37883,189415,Female,52,2023,December,Central,46-60,New,Debit Card,Online,28350.46,47662.72
+19-12-2023,1008,Laptop,Electronics,4,48780,195120,Female,37,2023,December,Central,36-45,New,Cash,Online,32757.39,64090.43
+19-12-2023,1011,Mobile,Electronics,5,13646,68230,Male,54,2023,December,North,46-60,New,UPI,Online,10106.07,17699.64
+20-12-2023,1000,Clothes,Fashion,1,14154,14154,Male,59,2023,December,East,46-60,New,Debit Card,Offline,11184.85,2969.15
+21-12-2023,1057,Laptop,Electronics,4,36320,145280,Female,34,2023,December,South,26-35,Returning,Debit Card,Offline,25658.01,42647.97
+22-12-2023,1000,Bag,Accessories,3,1226,3678,Female,64,2023,December,East,60+,New,UPI,Online,848.1,1133.7
+22-12-2023,1033,Laptop,Electronics,1,4260,4260,Male,48,2023,December,Central,46-60,New,Cash,Offline,2663.09,1596.91
+23-12-2023,1095,Watch,Accessories,1,22690,22690,Male,25,2023,December,West,18-25,New,Cash,Online,17813,4877
+24-12-2023,1047,Watch,Accessories,3,2375,7125,Female,32,2023,December,South,26-35,Returning,Debit Card,Offline,1805.77,1707.69
+25-12-2023,1088,Headphones,Electronics,1,23877,23877,Male,48,2023,December,North,46-60,New,Debit Card,Offline,15775,8102
+25-12-2023,1000,Watch,Accessories,4,47237,188948,Male,47,2023,December,South,46-60,Returning,Debit Card,Online,30598.14,66555.42
+26-12-2023,1015,Shoes,Fashion,5,4533,22665,Female,63,2023,December,North,60+,New,Cash,Offline,3010.86,7610.72
+27-12-2023,1060,Mobile,Electronics,1,38711,38711,Male,37,2023,December,South,36-45,New,Cash,Online,28500.26,10210.74
+27-12-2023,1063,Mobile,Electronics,4,17873,71492,Female,56,2023,December,North,46-60,New,Credit Card,Online,11307.02,26263.93
+28-12-2023,1062,Clothes,Fashion,2,4244,8488,Male,29,2023,December,North,26-35,New,Credit Card,Online,3104.18,2279.63
+29-12-2023,1068,Clothes,Fashion,4,25495,101980,Female,34,2023,December,South,26-35,Returning,Debit Card,Online,16012.53,37929.86
+30-12-2023,1021,Mobile,Electronics,5,17477,87385,Male,59,2023,December,South,46-60,Returning,Credit Card,Offline,11452.85,30120.74
+30-12-2023,1092,Bag,Accessories,4,32902,131608,Female,47,2023,December,North,46-60,New,Debit Card,Online,20039.22,51451.13
+31-12-2023,1066,Clothes,Fashion,3,35042,105126,Female,46,2023,December,Central,46-60,Returning,Credit Card,Offline,27234.19,23423.43
+01-01-2024,1075,Headphones,Electronics,5,11151,55755,Female,36,2024,January,South,36-45,New,Credit Card,Online,8347.51,14017.46
+02-01-2024,1025,Watch,Accessories,2,34203,68406,Female,63,2024,January,East,60+,Returning,UPI,Online,21605.77,25194.46
+02-01-2024,1015,Mobile,Electronics,3,13895,41685,Male,28,2024,January,West,26-35,Returning,Credit Card,Online,9542.49,13057.53
+03-01-2024,1050,Clothes,Fashion,4,30308,121232,Male,51,2024,January,North,46-60,Returning,Debit Card,Offline,23835.66,25889.37
+04-01-2024,1085,Mobile,Electronics,5,37076,185380,Female,24,2024,January,North,18-25,Returning,UPI,Offline,22442.41,73167.97
+05-01-2024,1056,Shoes,Fashion,2,17215,34430,Male,61,2024,January,West,60+,New,Cash,Online,12512.27,9405.46
+05-01-2024,1028,Laptop,Electronics,3,44909,134727,Male,51,2024,January,Central,46-60,New,Debit Card,Online,28766.04,48428.88
+06-01-2024,1077,Watch,Accessories,2,24806,49612,Male,37,2024,January,West,36-45,Returning,Debit Card,Offline,17702.25,14207.5
+07-01-2024,1091,Mobile,Electronics,4,19586,78344,Male,55,2024,January,South,46-60,New,Debit Card,Online,13088.5,25990
+07-01-2024,1068,Laptop,Electronics,2,14876,29752,Male,41,2024,January,West,36-45,Returning,UPI,Offline,10330.21,9091.58
+08-01-2024,1046,Clothes,Fashion,1,6389,6389,Female,27,2024,January,North,26-35,Returning,Debit Card,Offline,4576.82,1812.18
+09-01-2024,1093,Laptop,Electronics,3,38322,114966,Female,49,2024,January,West,46-60,New,Credit Card,Offline,25641.94,38040.17
+10-01-2024,1061,Watch,Accessories,2,37136,74272,Female,32,2024,January,East,26-35,New,Cash,Online,26035.05,22201.9
+10-01-2024,1068,Mobile,Electronics,4,21084,84336,Female,54,2024,January,South,46-60,Returning,Cash,Online,13516.66,30269.36
+11-01-2024,1075,Shoes,Fashion,4,49853,199412,Male,37,2024,January,West,36-45,Returning,UPI,Online,37755.86,48388.55
+12-01-2024,1015,Bag,Accessories,2,35110,70220,Male,20,2024,January,North,18-25,New,UPI,Online,23588.11,23043.77
+13-01-2024,1089,Clothes,Fashion,4,10558,42232,Female,54,2024,January,South,46-60,New,Credit Card,Online,6955.62,14409.52
+13-01-2024,1089,Mobile,Electronics,5,9601,48005,Male,57,2024,January,North,46-60,New,Credit Card,Online,6946.6,13271.98
+14-01-2024,1047,Watch,Accessories,5,12997,64985,Male,25,2024,January,Central,18-25,Returning,Cash,Offline,8261.59,23677.05
+15-01-2024,1084,Clothes,Fashion,5,5158,25790,Female,57,2024,January,East,46-60,Returning,Debit Card,Online,3953.3,6023.49
+15-01-2024,1038,Headphones,Electronics,1,11881,11881,Male,61,2024,January,Central,60+,New,Cash,Online,7526.24,4354.76
+16-01-2024,1099,Laptop,Electronics,2,40812,81624,Female,40,2024,January,East,36-45,Returning,Credit Card,Online,24759.94,32104.11
+17-01-2024,1032,Bag,Accessories,1,40986,40986,Female,57,2024,January,West,46-60,New,Debit Card,Offline,31524.11,9461.89
+18-01-2024,1093,Watch,Accessories,4,47119,188476,Male,28,2024,January,South,26-35,New,Debit Card,Offline,33148.14,55883.45
+18-01-2024,1022,Headphones,Electronics,1,17654,17654,Male,63,2024,January,West,60+,New,Cash,Online,11213.09,6440.91
+19-01-2024,1009,Mobile,Electronics,4,20039,80156,Female,25,2024,January,East,18-25,Returning,Credit Card,Offline,12108.87,31720.51
+20-01-2024,1068,Shoes,Fashion,4,12277,49108,Female,46,2024,January,East,46-60,Returning,Credit Card,Online,9012.53,13057.89
+21-01-2024,1099,Clothes,Fashion,3,34896,104688,Male,47,2024,January,East,46-60,New,Credit Card,Online,23307.02,34766.95
+21-01-2024,1033,Laptop,Electronics,5,30873,154365,Female,27,2024,January,North,26-35,Returning,UPI,Offline,23127.64,38726.82
+22-01-2024,1051,Clothes,Fashion,4,33654,134616,Female,56,2024,January,South,46-60,New,Credit Card,Online,22102.84,46204.66
+23-01-2024,1094,Bag,Accessories,3,6531,19593,Female,45,2024,January,West,36-45,Returning,Debit Card,Offline,4315.34,6646.99
+24-01-2024,1009,Mobile,Electronics,5,28497,142485,Male,53,2024,January,West,46-60,Returning,Cash,Offline,17774.14,53614.31
+24-01-2024,1018,Clothes,Fashion,4,6939,27756,Female,30,2024,January,Central,26-35,New,Credit Card,Offline,4316.31,10490.76
+25-01-2024,1057,Laptop,Electronics,4,23285,93140,Male,49,2024,January,East,46-60,New,Credit Card,Online,16415,27480.01
+26-01-2024,1095,Mobile,Electronics,1,13892,13892,Female,53,2024,January,East,46-60,Returning,Cash,Online,9604.09,4287.91
+26-01-2024,1000,Clothes,Fashion,1,29169,29169,Male,54,2024,January,East,46-60,Returning,Debit Card,Offline,20762.64,8406.36
+27-01-2024,1068,Shoes,Fashion,5,29439,147195,Female,43,2024,January,West,36-45,Returning,UPI,Online,20337.2,45509
+28-01-2024,1003,Watch,Accessories,4,2782,11128,Male,39,2024,January,Central,36-45,Returning,Debit Card,Online,2161.67,2481.32
+29-01-2024,1015,Mobile,Electronics,2,35124,70248,Male,21,2024,January,North,18-25,New,UPI,Online,25894.19,18459.63
+29-01-2024,1023,Watch,Accessories,1,48938,48938,Male,48,2024,January,South,46-60,Returning,Cash,Online,34478.55,14459.45
+30-01-2024,1079,Mobile,Electronics,5,24864,124320,Female,35,2024,January,North,26-35,Returning,Debit Card,Online,17964.99,34495.07
+31-01-2024,1001,Shoes,Fashion,4,2498,9992,Female,55,2024,January,West,46-60,Returning,Cash,Online,1662.46,3342.14
+01-02-2024,1091,Watch,Accessories,4,32205,128820,Female,41,2024,February,East,36-45,Returning,UPI,Online,25058.15,28587.39
+01-02-2024,1031,Headphones,Electronics,2,38744,77488,Male,40,2024,February,South,36-45,New,Debit Card,Online,24984.66,27518.69
+02-02-2024,1090,Laptop,Electronics,5,9928,49640,Female,39,2024,February,West,36-45,Returning,Credit Card,Offline,6903.98,15120.11
+03-02-2024,1083,Headphones,Electronics,4,37937,151748,Male,19,2024,February,West,18-25,New,Debit Card,Online,29907.95,32116.19
+03-02-2024,1023,Clothes,Fashion,1,12836,12836,Female,48,2024,February,West,46-60,New,UPI,Offline,10117.27,2718.73
+04-02-2024,1011,Shoes,Fashion,2,9842,19684,Male,28,2024,February,South,26-35,Returning,UPI,Online,7251.77,5180.47
+05-02-2024,1049,Headphones,Electronics,5,40332,201660,Male,45,2024,February,South,36-45,Returning,UPI,Offline,29340.2,54959.01
+06-02-2024,1034,Mobile,Electronics,2,7946,15892,Male,63,2024,February,Central,60+,Returning,Credit Card,Offline,5219,5454.01
+06-02-2024,1032,Clothes,Fashion,1,38892,38892,Female,49,2024,February,Central,46-60,Returning,Credit Card,Offline,29168.5,9723.5
+07-02-2024,1032,Clothes,Fashion,5,7961,39805,Female,22,2024,February,North,18-25,New,Cash,Online,5307.7,13266.51
+08-02-2024,1060,Headphones,Electronics,2,35087,70174,Female,55,2024,February,South,46-60,New,UPI,Offline,24810.17,20553.65
+09-02-2024,1050,Headphones,Electronics,3,11016,33048,Male,27,2024,February,South,26-35,Returning,Debit Card,Online,8656.36,7078.91
+09-02-2024,1042,Shoes,Fashion,1,14249,14249,Male,57,2024,February,South,46-60,New,Debit Card,Online,9915.96,4333.04
+10-02-2024,1011,Laptop,Electronics,1,18014,18014,Female,63,2024,February,Central,60+,Returning,Cash,Online,13386.6,4627.4
+11-02-2024,1066,Headphones,Electronics,1,35926,35926,Female,41,2024,February,West,36-45,Returning,Cash,Online,25619.24,10306.76
+12-02-2024,1064,Bag,Accessories,3,36768,110304,Female,52,2024,February,East,46-60,New,UPI,Offline,28900.54,23602.37
+12-02-2024,1032,Headphones,Electronics,3,25450,76350,Male,61,2024,February,Central,60+,New,Credit Card,Offline,17553.68,23688.97
+13-02-2024,1039,Watch,Accessories,4,35388,141552,Male,40,2024,February,South,36-45,New,UPI,Online,21750.41,54550.35
+14-02-2024,1073,Mobile,Electronics,2,37288,74576,Male,34,2024,February,Central,26-35,New,UPI,Online,25071.35,24433.29
+14-02-2024,1042,Bag,Accessories,4,10713,42852,Male,18,2024,February,North,18-25,Returning,UPI,Offline,7439.92,13092.33
+15-02-2024,1043,Bag,Accessories,2,36527,73054,Male,48,2024,February,South,46-60,New,Debit Card,Online,23438.68,26176.65
+16-02-2024,1028,Watch,Accessories,3,28511,85533,Female,48,2024,February,North,46-60,Returning,Cash,Offline,21998.82,19536.54
+17-02-2024,1012,Watch,Accessories,3,43349,130047,Male,59,2024,February,South,46-60,New,Debit Card,Offline,30286.45,39187.64
+17-02-2024,1011,Clothes,Fashion,4,35091,140364,Male,59,2024,February,Central,46-60,Returning,Credit Card,Online,23649.51,45765.97
+18-02-2024,1094,Laptop,Electronics,5,18358,91790,Male,51,2024,February,West,46-60,Returning,Debit Card,Offline,11370.85,34935.73
+19-02-2024,1045,Mobile,Electronics,4,19126,76504,Male,26,2024,February,East,26-35,New,Cash,Offline,14283.59,19369.63
+20-02-2024,1001,Shoes,Fashion,2,13967,27934,Male,39,2024,February,North,36-45,New,Cash,Offline,10717.71,6498.57
+20-02-2024,1034,Bag,Accessories,4,40258,161032,Female,30,2024,February,Central,26-35,Returning,Credit Card,Online,24762.7,61981.19
+21-02-2024,1086,Shoes,Fashion,1,3634,3634,Male,42,2024,February,West,36-45,New,Cash,Online,2888.06,745.94
+22-02-2024,1080,Headphones,Electronics,2,17243,34486,Male,35,2024,February,Central,26-35,Returning,Cash,Online,12402.28,9681.44
+22-02-2024,1089,Headphones,Electronics,2,15934,31868,Male,29,2024,February,North,26-35,Returning,Cash,Offline,10852.72,10162.56
+23-02-2024,1007,Shoes,Fashion,5,48275,241375,Female,57,2024,February,East,46-60,Returning,Debit Card,Online,32361.95,79565.25
+24-02-2024,1092,Headphones,Electronics,3,10733,32199,Female,34,2024,February,Central,26-35,Returning,Cash,Online,8419.33,6941.02
+25-02-2024,1025,Laptop,Electronics,2,49646,99292,Female,32,2024,February,South,26-35,Returning,Cash,Offline,33901.61,31488.78
+25-02-2024,1073,Watch,Accessories,3,1641,4923,Male,59,2024,February,West,46-60,Returning,UPI,Offline,1196.63,1333.11
+26-02-2024,1089,Headphones,Electronics,4,18519,74076,Female,32,2024,February,Central,26-35,Returning,UPI,Offline,12452.18,24267.3
+27-02-2024,1033,Clothes,Fashion,1,20884,20884,Male,32,2024,February,West,26-35,New,Credit Card,Offline,16585.72,4298.28
+28-02-2024,1006,Headphones,Electronics,5,43403,217015,Male,56,2024,February,South,46-60,Returning,UPI,Offline,27862.75,77701.23
+28-02-2024,1067,Mobile,Electronics,3,46234,138702,Female,30,2024,February,East,26-35,New,Credit Card,Online,35904.68,30987.97
+29-02-2024,1057,Laptop,Electronics,2,36629,73258,Male,34,2024,February,East,26-35,Returning,UPI,Offline,26326.79,20604.41
+01-03-2024,1074,Mobile,Electronics,3,23467,70401,Male,49,2024,March,South,46-60,New,Cash,Offline,17703.83,17289.52
+02-03-2024,1028,Mobile,Electronics,2,41103,82206,Male,26,2024,March,West,26-35,New,UPI,Online,27050.42,28105.16
+02-03-2024,1035,Clothes,Fashion,3,11672,35016,Female,57,2024,March,Central,46-60,New,Credit Card,Online,7280.59,13174.23
+03-03-2024,1088,Laptop,Electronics,2,16890,33780,Male,37,2024,March,South,36-45,Returning,Cash,Online,12549.84,8680.32
+04-03-2024,1020,Laptop,Electronics,4,3767,15068,Male,43,2024,March,North,36-45,Returning,UPI,Offline,2848.33,3674.68
+04-03-2024,1035,Laptop,Electronics,2,39832,79664,Female,44,2024,March,West,36-45,New,Debit Card,Online,26016.18,27631.65
+05-03-2024,1009,Laptop,Electronics,2,26667,53334,Male,38,2024,March,East,36-45,New,Credit Card,Offline,20099.64,13134.72
+06-03-2024,1072,Laptop,Electronics,1,21812,21812,Male,35,2024,March,South,26-35,New,Credit Card,Online,16373.18,5438.82
+07-03-2024,1023,Clothes,Fashion,2,28340,56680,Female,30,2024,March,East,26-35,New,Cash,Offline,18816.19,19047.62
+07-03-2024,1063,Headphones,Electronics,1,19490,19490,Male,33,2024,March,West,26-35,Returning,UPI,Online,13202.6,6287.4
+08-03-2024,1098,Mobile,Electronics,5,44679,223395,Male,26,2024,March,East,26-35,New,Debit Card,Offline,30612.25,70333.73
+09-03-2024,1048,Laptop,Electronics,1,6406,6406,Male,29,2024,March,South,26-35,New,Cash,Online,4230.46,2175.54
+10-03-2024,1098,Bag,Accessories,4,49296,197184,Male,61,2024,March,West,60+,New,Credit Card,Offline,38350.38,43782.47
+10-03-2024,1035,Headphones,Electronics,1,40879,40879,Male,55,2024,March,North,46-60,Returning,Credit Card,Offline,30885.43,9993.57
+11-03-2024,1081,Headphones,Electronics,5,17797,88985,Female,36,2024,March,South,36-45,New,Debit Card,Online,13628.78,20841.1
+12-03-2024,1095,Mobile,Electronics,4,2511,10044,Female,24,2024,March,Central,18-25,New,UPI,Offline,1800.93,2840.27
+12-03-2024,1023,Clothes,Fashion,3,44514,133542,Female,52,2024,March,South,46-60,New,UPI,Offline,29539.83,44922.5
+13-03-2024,1022,Shoes,Fashion,3,47058,141174,Female,35,2024,March,West,26-35,Returning,Debit Card,Offline,35928.72,33387.83
+14-03-2024,1061,Shoes,Fashion,1,12238,12238,Male,33,2024,March,South,26-35,New,UPI,Offline,9368.88,2869.12
+15-03-2024,1095,Headphones,Electronics,1,29297,29297,Male,56,2024,March,North,46-60,Returning,Debit Card,Offline,19579.1,9717.9
+15-03-2024,1036,Watch,Accessories,5,47998,239990,Male,21,2024,March,North,18-25,New,Cash,Online,37212.03,53929.85
+16-03-2024,1011,Watch,Accessories,5,11620,58100,Male,42,2024,March,Central,36-45,Returning,Credit Card,Offline,8596.1,15119.48
+17-03-2024,1054,Mobile,Electronics,2,9267,18534,Male,49,2024,March,East,46-60,New,Debit Card,Offline,6262.66,6008.68
+18-03-2024,1012,Shoes,Fashion,5,23352,116760,Female,57,2024,March,West,46-60,New,Cash,Online,15966.99,36925.06
+18-03-2024,1022,Headphones,Electronics,2,14203,28406,Female,30,2024,March,West,26-35,Returning,Debit Card,Online,11212.89,5980.22
+19-03-2024,1088,Clothes,Fashion,4,1429,5716,Male,62,2024,March,East,60+,New,Cash,Online,900.43,2114.27
+20-03-2024,1098,Shoes,Fashion,1,12451,12451,Male,34,2024,March,North,26-35,New,Credit Card,Online,9203.32,3247.68
+21-03-2024,1029,Headphones,Electronics,4,26539,106156,Male,54,2024,March,North,46-60,New,Debit Card,Offline,18282.44,33026.22
+21-03-2024,1016,Headphones,Electronics,5,49113,245565,Female,23,2024,March,South,18-25,Returning,Debit Card,Online,37811.34,56508.31
+22-03-2024,1061,Laptop,Electronics,4,30004,120016,Male,36,2024,March,Central,36-45,Returning,Cash,Offline,19128.07,43503.74
+23-03-2024,1083,Clothes,Fashion,4,17938,71752,Male,30,2024,March,Central,26-35,Returning,Debit Card,Online,12637.1,21203.61
+23-03-2024,1088,Laptop,Electronics,4,49015,196060,Male,43,2024,March,Central,36-45,Returning,Credit Card,Offline,38328.56,42745.76
+24-03-2024,1085,Mobile,Electronics,5,6244,31220,Female,31,2024,March,South,26-35,New,Credit Card,Offline,4333.07,9554.67
+25-03-2024,1012,Laptop,Electronics,4,18784,75136,Male,48,2024,March,Central,46-60,New,UPI,Offline,13878.26,19622.97
+26-03-2024,1058,Bag,Accessories,2,42917,85834,Female,21,2024,March,East,18-25,Returning,UPI,Online,32776.05,20281.91
+26-03-2024,1018,Laptop,Electronics,5,40248,201240,Female,56,2024,March,South,46-60,Returning,Credit Card,Online,30451.5,48982.48
+27-03-2024,1048,Bag,Accessories,4,7569,30276,Female,25,2024,March,East,18-25,Returning,Debit Card,Online,5662.37,7626.51
+28-03-2024,1099,Shoes,Fashion,5,42859,214295,Female,42,2024,March,South,36-45,Returning,UPI,Offline,29032.51,69132.46
+29-03-2024,1011,Watch,Accessories,3,20299,60897,Female,30,2024,March,Central,26-35,New,Credit Card,Online,13583.84,20145.49
+29-03-2024,1060,Headphones,Electronics,2,33710,67420,Female,49,2024,March,East,46-60,Returning,Cash,Online,21232.16,24955.67
+30-03-2024,1018,Bag,Accessories,4,28726,114904,Male,55,2024,March,East,46-60,New,Debit Card,Offline,20560.06,32663.76
+31-03-2024,1075,Clothes,Fashion,3,5152,15456,Male,55,2024,March,East,46-60,Returning,UPI,Offline,3817.93,4002.22
+31-03-2024,1008,Laptop,Electronics,3,24823,74469,Male,45,2024,March,South,36-45,Returning,Debit Card,Offline,19660,15489.01
+01-04-2024,1070,Bag,Accessories,5,42638,213190,Female,47,2024,April,West,46-60,Returning,UPI,Online,28232.88,72025.6
+02-04-2024,1027,Clothes,Fashion,3,8097,24291,Male,20,2024,April,Central,18-25,Returning,Credit Card,Offline,5949.3,6443.11
+03-04-2024,1077,Watch,Accessories,2,47593,95186,Female,45,2024,April,East,36-45,New,Debit Card,Online,28717.09,37751.82
+03-04-2024,1094,Watch,Accessories,2,37726,75452,Female,20,2024,April,West,18-25,New,Credit Card,Online,24870.08,25711.84
+04-04-2024,1051,Laptop,Electronics,1,7091,7091,Female,62,2024,April,Central,60+,Returning,UPI,Offline,5594.29,1496.71
+05-04-2024,1082,Mobile,Electronics,2,49614,99228,Male,51,2024,April,Central,46-60,New,UPI,Offline,30032.68,39162.63
+06-04-2024,1015,Laptop,Electronics,3,26333,78999,Female,33,2024,April,East,26-35,New,Credit Card,Offline,16825.75,28521.74
+06-04-2024,1068,Shoes,Fashion,2,12326,24652,Female,39,2024,April,East,36-45,Returning,UPI,Online,8872.54,6906.91
+07-04-2024,1098,Bag,Accessories,5,26917,134585,Male,49,2024,April,South,46-60,New,Credit Card,Offline,18631.01,41429.93
+08-04-2024,1011,Headphones,Electronics,1,19193,19193,Male,55,2024,April,West,46-60,Returning,Cash,Offline,12648.73,6544.27
+09-04-2024,1024,Mobile,Electronics,3,14638,43914,Female,25,2024,April,West,18-25,Returning,Debit Card,Online,10900.97,11211.08
+09-04-2024,1051,Laptop,Electronics,1,2669,2669,Female,25,2024,April,East,18-25,New,Cash,Online,1779.28,889.72
+10-04-2024,1084,Clothes,Fashion,3,19056,57168,Male,23,2024,April,Central,18-25,Returning,Credit Card,Offline,14962.42,12280.74
+11-04-2024,1099,Mobile,Electronics,5,22552,112760,Male,31,2024,April,East,26-35,New,Debit Card,Offline,16123.7,32141.5
+11-04-2024,1052,Bag,Accessories,1,6813,6813,Male,49,2024,April,Central,46-60,Returning,Cash,Offline,4286.74,2526.26
+12-04-2024,1022,Mobile,Electronics,4,8815,35260,Female,52,2024,April,Central,46-60,New,Credit Card,Offline,5354.44,13842.24
+13-04-2024,1015,Bag,Accessories,3,8536,25608,Male,27,2024,April,East,26-35,Returning,Debit Card,Offline,5195.94,10020.17
+14-04-2024,1056,Laptop,Electronics,4,32278,129112,Male,20,2024,April,North,18-25,Returning,Credit Card,Offline,24338.67,31757.31
+14-04-2024,1038,Bag,Accessories,1,28234,28234,Male,29,2024,April,West,26-35,New,UPI,Online,21407.48,6826.52
+15-04-2024,1052,Mobile,Electronics,4,23673,94692,Female,48,2024,April,Central,46-60,New,UPI,Online,17445.06,24911.77
+16-04-2024,1041,Clothes,Fashion,4,30903,123612,Male,46,2024,April,Central,46-60,New,UPI,Offline,24225.01,26711.96
+17-04-2024,1057,Watch,Accessories,1,1285,1285,Male,22,2024,April,North,18-25,New,UPI,Offline,796.35,488.65
+17-04-2024,1038,Mobile,Electronics,5,6639,33195,Male,42,2024,April,South,36-45,Returning,Credit Card,Online,4247.95,11955.24
+18-04-2024,1013,Bag,Accessories,4,6844,27376,Male,58,2024,April,North,46-60,Returning,UPI,Offline,5465.39,5514.43
+19-04-2024,1094,Watch,Accessories,4,19300,77200,Male,48,2024,April,North,46-60,Returning,UPI,Online,13738.31,22246.78
+19-04-2024,1004,Bag,Accessories,5,25872,129360,Female,38,2024,April,Central,36-45,Returning,Credit Card,Offline,18803.24,35343.8
+20-04-2024,1034,Clothes,Fashion,4,21038,84152,Female,37,2024,April,West,36-45,Returning,Cash,Offline,16027.3,20042.8
+21-04-2024,1086,Bag,Accessories,4,15473,61892,Female,56,2024,April,North,46-60,Returning,UPI,Online,10821.65,18605.41
+22-04-2024,1092,Laptop,Electronics,4,6119,24476,Male,39,2024,April,South,36-45,New,Debit Card,Online,4583.68,6141.29
+22-04-2024,1074,Headphones,Electronics,2,35204,70408,Female,21,2024,April,East,18-25,New,UPI,Online,27922.3,14563.4
+23-04-2024,1017,Mobile,Electronics,5,37075,185375,Female,30,2024,April,North,26-35,Returning,UPI,Offline,28363.37,43558.16
+24-04-2024,1075,Headphones,Electronics,4,40419,161676,Female,62,2024,April,North,60+,Returning,UPI,Online,30140.73,41113.07
+25-04-2024,1008,Bag,Accessories,5,42761,213805,Male,59,2024,April,South,46-60,Returning,Debit Card,Offline,30872.9,59440.5
+25-04-2024,1073,Clothes,Fashion,3,45623,136869,Male,37,2024,April,West,36-45,Returning,UPI,Offline,28072.04,52652.88
+26-04-2024,1057,Mobile,Electronics,3,28216,84648,Female,30,2024,April,North,26-35,New,Credit Card,Offline,20141.84,24222.48
+27-04-2024,1016,Bag,Accessories,4,3736,14944,Female,34,2024,April,North,26-35,Returning,UPI,Online,2607.36,4514.54
+28-04-2024,1006,Watch,Accessories,5,16348,81740,Male,53,2024,April,West,46-60,Returning,UPI,Online,11222.63,25626.83
+28-04-2024,1045,Shoes,Fashion,5,2852,14260,Male,50,2024,April,South,46-60,New,UPI,Offline,2184.53,3337.34
+29-04-2024,1012,Bag,Accessories,5,2432,12160,Female,18,2024,April,North,18-25,New,Debit Card,Offline,1785.52,3232.42
+30-04-2024,1039,Headphones,Electronics,2,11413,22826,Male,32,2024,April,West,26-35,New,UPI,Offline,7449.95,7926.09
+30-04-2024,1041,Mobile,Electronics,3,9056,27168,Female,30,2024,April,North,26-35,Returning,Cash,Offline,6821.19,6704.43
+01-05-2024,1008,Headphones,Electronics,5,21800,109000,Male,34,2024,May,East,26-35,Returning,Debit Card,Offline,14137.53,38312.37
+02-05-2024,1049,Mobile,Electronics,5,5998,29990,Female,41,2024,May,Central,36-45,New,Debit Card,Offline,3667.11,11654.47
+03-05-2024,1026,Bag,Accessories,2,11082,22164,Female,25,2024,May,East,18-25,New,UPI,Online,6999.75,8164.51
+03-05-2024,1065,Laptop,Electronics,2,47133,94266,Male,44,2024,May,North,36-45,New,Credit Card,Online,30135.41,33995.18
+04-05-2024,1004,Watch,Accessories,5,10069,50345,Female,62,2024,May,South,60+,Returning,Cash,Offline,7260.77,14041.15
+05-05-2024,1028,Bag,Accessories,1,5357,5357,Female,40,2024,May,Central,36-45,New,Cash,Offline,4247.44,1109.56
+06-05-2024,1036,Headphones,Electronics,5,840,4200,Female,63,2024,May,East,60+,New,UPI,Online,510.28,1648.58
+06-05-2024,1037,Shoes,Fashion,5,44449,222245,Male,25,2024,May,West,18-25,Returning,UPI,Offline,35302.88,45730.59
+07-05-2024,1082,Shoes,Fashion,2,17266,34532,Male,25,2024,May,South,18-25,New,Debit Card,Offline,12159.92,10212.16
+08-05-2024,1007,Clothes,Fashion,2,26632,53264,Male,43,2024,May,East,36-45,Returning,Credit Card,Online,17386.51,18490.99
+08-05-2024,1064,Mobile,Electronics,5,8991,44955,Female,64,2024,May,West,60+,Returning,Debit Card,Offline,6642.05,11744.75
+09-05-2024,1085,Headphones,Electronics,5,638,3190,Male,30,2024,May,North,26-35,New,UPI,Offline,397.1,1204.48
+10-05-2024,1016,Clothes,Fashion,5,858,4290,Female,56,2024,May,West,46-60,New,Debit Card,Online,663.81,970.96
+11-05-2024,1070,Headphones,Electronics,2,10214,20428,Female,54,2024,May,East,46-60,New,UPI,Online,6432.21,7563.59
+11-05-2024,1088,Mobile,Electronics,5,20340,101700,Male,45,2024,May,East,36-45,New,Debit Card,Offline,13167.75,35861.27
+12-05-2024,1044,Bag,Accessories,5,34895,174475,Male,42,2024,May,North,36-45,Returning,Debit Card,Offline,20968.29,69633.55
+13-05-2024,1003,Bag,Accessories,4,31154,124616,Female,33,2024,May,West,26-35,New,UPI,Offline,20684.86,41876.58
+14-05-2024,1035,Shoes,Fashion,1,26379,26379,Female,19,2024,May,West,18-25,New,Cash,Offline,19985.62,6393.38
+14-05-2024,1069,Bag,Accessories,3,16496,49488,Male,35,2024,May,North,26-35,New,Cash,Online,12867.48,10885.56
+15-05-2024,1030,Bag,Accessories,1,38272,38272,Male,34,2024,May,West,26-35,Returning,Credit Card,Online,29289.02,8982.98
+16-05-2024,1018,Laptop,Electronics,4,27262,109048,Male,47,2024,May,North,46-60,Returning,Credit Card,Online,18725.95,34144.2
+17-05-2024,1060,Shoes,Fashion,3,13783,41349,Female,56,2024,May,South,46-60,New,Credit Card,Offline,9945.66,11512.03
+17-05-2024,1053,Clothes,Fashion,5,39920,199600,Female,30,2024,May,East,26-35,Returning,UPI,Online,25831.36,70443.18
+18-05-2024,1038,Watch,Accessories,4,20054,80216,Female,49,2024,May,South,46-60,Returning,Cash,Online,14703.94,21400.25
+19-05-2024,1090,Laptop,Electronics,5,20719,103595,Female,46,2024,May,Central,46-60,Returning,UPI,Offline,16560.7,20791.52
+19-05-2024,1073,Clothes,Fashion,2,35419,70838,Female,63,2024,May,Central,60+,New,Cash,Online,21974.62,26888.77
+20-05-2024,1089,Mobile,Electronics,4,9929,39716,Male,47,2024,May,Central,46-60,Returning,Credit Card,Online,6979.53,11797.9
+21-05-2024,1018,Laptop,Electronics,2,47340,94680,Male,35,2024,May,North,26-35,Returning,Credit Card,Offline,35855.49,22969.02
+22-05-2024,1038,Clothes,Fashion,4,45195,180780,Female,30,2024,May,West,26-35,Returning,Debit Card,Online,31519.49,54702.03
+22-05-2024,1066,Mobile,Electronics,4,40173,160692,Female,60,2024,May,South,46-60,Returning,UPI,Online,31756.23,33667.08
+23-05-2024,1044,Shoes,Fashion,2,19718,39436,Male,38,2024,May,South,36-45,Returning,Cash,Online,14020.56,11394.88
+24-05-2024,1012,Watch,Accessories,3,12952,38856,Male,47,2024,May,South,46-60,Returning,Credit Card,Online,8875.81,12228.57
+25-05-2024,1091,Mobile,Electronics,1,49480,49480,Male,38,2024,May,South,36-45,Returning,UPI,Online,37168.49,12311.51
+25-05-2024,1057,Bag,Accessories,5,19451,97255,Male,34,2024,May,Central,26-35,Returning,Credit Card,Online,11925.93,37625.33
+26-05-2024,1019,Headphones,Electronics,4,1807,7228,Female,57,2024,May,South,46-60,Returning,UPI,Online,1099.91,2828.37
+27-05-2024,1091,Mobile,Electronics,5,15352,76760,Male,36,2024,May,West,36-45,Returning,Credit Card,Offline,12024.15,16639.26
+27-05-2024,1071,Mobile,Electronics,2,25732,51464,Female,32,2024,May,Central,26-35,Returning,UPI,Online,17671.53,16120.93
+28-05-2024,1060,Watch,Accessories,5,35928,179640,Male,26,2024,May,South,26-35,New,UPI,Online,22293.66,68171.7
+29-05-2024,1038,Headphones,Electronics,2,43671,87342,Male,27,2024,May,North,26-35,Returning,Cash,Offline,28022.03,31297.95
+30-05-2024,1000,Bag,Accessories,5,26985,134925,Male,61,2024,May,East,60+,New,Debit Card,Offline,18081.27,44518.65
+30-05-2024,1002,Clothes,Fashion,1,10738,10738,Female,48,2024,May,East,46-60,New,Cash,Online,8044.64,2693.36
+31-05-2024,1076,Clothes,Fashion,1,39475,39475,Female,40,2024,May,East,36-45,Returning,Cash,Online,30613.63,8861.37
+01-06-2024,1091,Mobile,Electronics,1,1640,1640,Male,47,2024,June,Central,46-60,Returning,Credit Card,Offline,1129.38,510.62
+02-06-2024,1061,Headphones,Electronics,1,25342,25342,Female,50,2024,June,South,46-60,New,Cash,Online,16632.99,8709.01
+02-06-2024,1062,Headphones,Electronics,1,26921,26921,Female,26,2024,June,Central,26-35,Returning,Debit Card,Offline,19650.2,7270.8
+03-06-2024,1024,Bag,Accessories,1,2208,2208,Male,64,2024,June,West,60+,New,Credit Card,Offline,1470.77,737.23
+04-06-2024,1055,Watch,Accessories,2,4130,8260,Male,18,2024,June,North,18-25,New,UPI,Online,3012.49,2235.01
+05-06-2024,1032,Shoes,Fashion,4,20095,80380,Female,61,2024,June,North,60+,New,Credit Card,Online,15980.84,16456.66
+05-06-2024,1037,Clothes,Fashion,5,10985,54925,Female,52,2024,June,East,46-60,New,Credit Card,Offline,8686.98,11490.09
+06-06-2024,1005,Watch,Accessories,1,28808,28808,Female,28,2024,June,East,26-35,New,Debit Card,Offline,20491.79,8316.21
+07-06-2024,1057,Laptop,Electronics,2,45289,90578,Male,51,2024,June,East,46-60,Returning,Debit Card,Offline,30794.91,28988.19
+07-06-2024,1043,Clothes,Fashion,2,26586,53172,Male,33,2024,June,South,26-35,Returning,Credit Card,Online,16595.73,19980.55
+08-06-2024,1044,Watch,Accessories,2,17359,34718,Female,26,2024,June,West,26-35,Returning,UPI,Online,11039.9,12638.21
+09-06-2024,1031,Clothes,Fashion,4,8184,32736,Male,49,2024,June,West,46-60,Returning,Credit Card,Online,6406.15,7111.4
+10-06-2024,1044,Shoes,Fashion,5,26052,130260,Male,32,2024,June,West,26-35,New,Debit Card,Online,19050.88,35005.58
+10-06-2024,1060,Laptop,Electronics,4,1707,6828,Female,29,2024,June,West,26-35,Returning,Credit Card,Offline,1330.26,1506.97
+11-06-2024,1046,Shoes,Fashion,3,46599,139797,Female,50,2024,June,East,46-60,Returning,Cash,Online,31811.34,44362.98
+12-06-2024,1020,Bag,Accessories,2,2460,4920,Male,62,2024,June,North,60+,New,Debit Card,Online,1498.78,1922.45
+13-06-2024,1079,Laptop,Electronics,3,1057,3171,Male,31,2024,June,East,26-35,New,UPI,Online,805.79,753.62
+13-06-2024,1084,Mobile,Electronics,1,30189,30189,Female,25,2024,June,West,18-25,Returning,Credit Card,Online,23762.82,6426.18
+14-06-2024,1074,Watch,Accessories,1,49151,49151,Male,25,2024,June,East,18-25,New,Debit Card,Offline,34941.47,14209.53
+15-06-2024,1035,Laptop,Electronics,4,14393,57572,Male,44,2024,June,West,36-45,Returning,Debit Card,Offline,11043.59,13397.65
+15-06-2024,1098,Bag,Accessories,5,32772,163860,Female,29,2024,June,Central,26-35,New,Debit Card,Online,21397.69,56871.53
+16-06-2024,1018,Bag,Accessories,3,1382,4146,Female,18,2024,June,North,18-25,Returning,UPI,Online,932.73,1347.8
+17-06-2024,1019,Shoes,Fashion,5,38029,190145,Male,60,2024,June,Central,46-60,New,UPI,Online,29223.43,44027.87
+18-06-2024,1056,Clothes,Fashion,4,39135,156540,Male,57,2024,June,South,46-60,Returning,Cash,Online,25339.43,55182.28
+18-06-2024,1017,Laptop,Electronics,1,30035,30035,Male,59,2024,June,East,46-60,Returning,UPI,Online,18306.49,11728.51
+19-06-2024,1046,Watch,Accessories,5,13369,66845,Female,28,2024,June,South,26-35,Returning,Credit Card,Online,10309.93,15295.35
+20-06-2024,1048,Laptop,Electronics,5,7666,38330,Male,56,2024,June,East,46-60,New,Debit Card,Offline,6128.93,7685.35
+21-06-2024,1013,Headphones,Electronics,1,13482,13482,Male,60,2024,June,Central,46-60,Returning,UPI,Offline,9025.78,4456.22
+21-06-2024,1014,Clothes,Fashion,3,41197,123591,Female,48,2024,June,West,46-60,New,Credit Card,Online,28457.44,38218.68
+22-06-2024,1030,Watch,Accessories,1,38615,38615,Female,34,2024,June,West,26-35,New,Debit Card,Online,25985.36,12629.64
+23-06-2024,1000,Watch,Accessories,5,7769,38845,Male,50,2024,June,East,46-60,New,Debit Card,Offline,5379.47,11947.65
+24-06-2024,1053,Mobile,Electronics,3,28564,85692,Female,49,2024,June,West,46-60,New,Cash,Offline,17573.54,32971.39
+24-06-2024,1002,Shoes,Fashion,3,14027,42081,Female,46,2024,June,Central,46-60,New,Cash,Offline,9051.93,14925.21
+25-06-2024,1015,Mobile,Electronics,1,2954,2954,Male,38,2024,June,West,36-45,Returning,Credit Card,Online,1860.63,1093.37
+26-06-2024,1086,Watch,Accessories,5,21378,106890,Female,38,2024,June,Central,36-45,Returning,Cash,Offline,15326.27,30258.65
+26-06-2024,1056,Clothes,Fashion,4,13491,53964,Female,57,2024,June,South,46-60,Returning,Cash,Online,9201.6,17157.59
+27-06-2024,1074,Laptop,Electronics,5,3308,16540,Male,40,2024,June,Central,36-45,Returning,Cash,Offline,2452.48,4277.58
+28-06-2024,1011,Laptop,Electronics,2,39910,79820,Female,23,2024,June,North,18-25,New,Debit Card,Online,30221.8,19376.39
+29-06-2024,1073,Clothes,Fashion,4,37093,148372,Male,39,2024,June,North,36-45,Returning,Debit Card,Online,29304.46,31154.17
+29-06-2024,1095,Watch,Accessories,3,36804,110412,Male,55,2024,June,North,46-60,New,Cash,Offline,23572.35,39694.94
+30-06-2024,1015,Bag,Accessories,4,30886,123544,Female,54,2024,June,East,46-60,Returning,Cash,Offline,23951.46,27738.15
+01-07-2024,1071,Laptop,Electronics,3,48577,145731,Female,62,2024,July,East,60+,Returning,Credit Card,Offline,32400.4,48529.81
+02-07-2024,1075,Bag,Accessories,3,4302,12906,Female,25,2024,July,East,18-25,New,Debit Card,Offline,3327.11,2924.67
+02-07-2024,1023,Laptop,Electronics,4,29253,117012,Male,58,2024,July,Central,46-60,New,Cash,Offline,22370.68,27529.28
+03-07-2024,1027,Laptop,Electronics,3,21583,64749,Female,52,2024,July,East,46-60,New,UPI,Online,15182.94,19200.17
+04-07-2024,1007,Shoes,Fashion,3,18854,56562,Male,28,2024,July,South,26-35,Returning,UPI,Online,11497.95,22068.15
+04-07-2024,1091,Shoes,Fashion,2,22690,45380,Female,41,2024,July,North,36-45,Returning,Credit Card,Online,16629.94,12120.11
+05-07-2024,1035,Headphones,Electronics,5,6642,33210,Female,38,2024,July,Central,36-45,New,Cash,Offline,4410.08,11159.62
+06-07-2024,1089,Mobile,Electronics,5,28898,144490,Female,19,2024,July,North,18-25,New,UPI,Offline,18398.84,52495.8
+07-07-2024,1007,Clothes,Fashion,2,42362,84724,Male,57,2024,July,East,46-60,Returning,Credit Card,Offline,31895,20934.01
+07-07-2024,1057,Clothes,Fashion,4,33632,134528,Female,36,2024,July,Central,36-45,New,Debit Card,Offline,24777.89,35416.46
+08-07-2024,1059,Clothes,Fashion,1,20003,20003,Female,56,2024,July,West,46-60,Returning,Cash,Online,12123.86,7879.14
+09-07-2024,1049,Headphones,Electronics,1,48956,48956,Male,45,2024,July,South,36-45,New,Credit Card,Online,31970.89,16985.11
+10-07-2024,1027,Shoes,Fashion,1,35131,35131,Male,34,2024,July,East,26-35,Returning,Debit Card,Offline,27389.55,7741.45
+10-07-2024,1091,Watch,Accessories,2,16999,33998,Female,23,2024,July,East,18-25,Returning,UPI,Offline,11933.66,10130.68
+11-07-2024,1040,Bag,Accessories,2,40352,80704,Female,36,2024,July,South,36-45,Returning,Credit Card,Online,25843.78,29016.45
+12-07-2024,1099,Bag,Accessories,3,8516,25548,Female,55,2024,July,South,46-60,Returning,Debit Card,Online,6183.02,6998.94
+13-07-2024,1063,Watch,Accessories,1,2884,2884,Male,45,2024,July,West,36-45,Returning,Debit Card,Offline,1914.77,969.23
+13-07-2024,1026,Headphones,Electronics,4,15572,62288,Male,19,2024,July,East,18-25,Returning,Cash,Online,11393.76,16712.96
+14-07-2024,1062,Watch,Accessories,4,37203,148812,Male,55,2024,July,East,46-60,New,UPI,Offline,22580.8,58488.81
+15-07-2024,1016,Clothes,Fashion,1,46395,46395,Male,54,2024,July,North,46-60,New,Debit Card,Online,34127.83,12267.17
+15-07-2024,1072,Mobile,Electronics,1,14982,14982,Female,21,2024,July,Central,18-25,Returning,UPI,Offline,11616.76,3365.24
+16-07-2024,1032,Laptop,Electronics,1,41010,41010,Male,39,2024,July,Central,36-45,New,Credit Card,Offline,28369.75,12640.25
+17-07-2024,1083,Bag,Accessories,2,49433,98866,Male,43,2024,July,North,36-45,New,UPI,Online,32589.87,33686.26
+18-07-2024,1076,Shoes,Fashion,2,22326,44652,Male,60,2024,July,Central,46-60,New,Cash,Offline,14263,16126.01
+18-07-2024,1091,Shoes,Fashion,2,2990,5980,Female,53,2024,July,South,46-60,Returning,Credit Card,Offline,2017.21,1945.57
+19-07-2024,1028,Headphones,Electronics,5,46592,232960,Female,30,2024,July,Central,26-35,New,Debit Card,Online,27987.81,93020.95
+20-07-2024,1012,Shoes,Fashion,4,26018,104072,Male,49,2024,July,Central,46-60,Returning,UPI,Offline,18187.65,31321.39
+21-07-2024,1045,Clothes,Fashion,4,24545,98180,Male,34,2024,July,North,26-35,Returning,Debit Card,Online,16486.28,32234.87
+21-07-2024,1034,Bag,Accessories,3,27410,82230,Female,58,2024,July,West,46-60,Returning,Credit Card,Online,19599.32,23432.05
+22-07-2024,1005,Watch,Accessories,2,25066,50132,Female,53,2024,July,Central,46-60,Returning,Debit Card,Offline,15628.52,18874.95
+23-07-2024,1081,Clothes,Fashion,5,34405,172025,Female,63,2024,July,Central,60+,Returning,Cash,Offline,24004.24,52003.82
+23-07-2024,1068,Headphones,Electronics,5,27603,138015,Female,36,2024,July,West,36-45,New,Debit Card,Offline,17016.94,52930.32
+24-07-2024,1046,Clothes,Fashion,4,36688,146752,Female,52,2024,July,North,46-60,New,UPI,Online,24820.45,47470.19
+25-07-2024,1024,Watch,Accessories,2,6345,12690,Female,63,2024,July,West,60+,Returning,Credit Card,Online,4489.41,3711.17
+26-07-2024,1065,Mobile,Electronics,3,21662,64986,Female,57,2024,July,North,46-60,Returning,UPI,Online,16283.75,16134.76
+26-07-2024,1009,Headphones,Electronics,2,37174,74348,Female,45,2024,July,South,36-45,New,Cash,Offline,22706.6,28934.8
+27-07-2024,1055,Mobile,Electronics,1,19837,19837,Male,18,2024,July,North,18-25,Returning,UPI,Offline,13781.68,6055.32
+28-07-2024,1029,Laptop,Electronics,2,22813,45626,Male,59,2024,July,South,46-60,Returning,Credit Card,Offline,15966.24,13693.52
+29-07-2024,1004,Mobile,Electronics,1,27443,27443,Male,35,2024,July,South,26-35,New,Credit Card,Online,17751.91,9691.09
+29-07-2024,1032,Laptop,Electronics,1,12913,12913,Male,57,2024,July,North,46-60,New,UPI,Offline,8123.87,4789.13
+30-07-2024,1064,Laptop,Electronics,3,776,2328,Male,50,2024,July,East,46-60,Returning,Credit Card,Online,552.81,669.57
+31-07-2024,1017,Mobile,Electronics,4,18111,72444,Male,29,2024,July,North,26-35,New,Cash,Online,11513.63,26389.49
+01-08-2024,1095,Headphones,Electronics,2,39605,79210,Female,25,2024,August,Central,18-25,New,Credit Card,Offline,24075.85,31058.31
+01-08-2024,1048,Watch,Accessories,1,12444,12444,Female,41,2024,August,Central,36-45,New,Debit Card,Online,9027.34,3416.66
+02-08-2024,1010,Clothes,Fashion,2,16406,32812,Male,33,2024,August,East,26-35,Returning,Debit Card,Online,12367.6,8076.8
+03-08-2024,1084,Clothes,Fashion,4,21036,84144,Male,21,2024,August,South,18-25,Returning,UPI,Online,13985.43,28202.26
+03-08-2024,1025,Watch,Accessories,4,28310,113240,Female,55,2024,August,East,46-60,New,Credit Card,Online,17472.4,43350.39
+04-08-2024,1062,Bag,Accessories,5,12806,64030,Female,61,2024,August,Central,60+,Returning,Cash,Online,8445.87,21800.63
+05-08-2024,1088,Bag,Accessories,4,11003,44012,Female,44,2024,August,East,36-45,Returning,Debit Card,Online,6716.53,17145.9
+06-08-2024,1085,Laptop,Electronics,3,19725,59175,Male,26,2024,August,North,26-35,Returning,Credit Card,Online,15021.1,14111.69
+06-08-2024,1058,Laptop,Electronics,1,37476,37476,Female,64,2024,August,East,60+,New,Credit Card,Online,22563.64,14912.36
+07-08-2024,1026,Headphones,Electronics,5,12090,60450,Male,33,2024,August,South,26-35,New,Cash,Online,7906.85,20915.77
+08-08-2024,1048,Shoes,Fashion,3,11386,34158,Male,29,2024,August,North,26-35,New,UPI,Online,7784.72,10803.83
+09-08-2024,1076,Mobile,Electronics,2,13366,26732,Female,48,2024,August,West,46-60,Returning,Debit Card,Online,8142.84,10446.32
+09-08-2024,1032,Laptop,Electronics,1,1588,1588,Female,41,2024,August,Central,36-45,New,Cash,Online,998.95,589.05
+10-08-2024,1097,Clothes,Fashion,4,3863,15452,Male,31,2024,August,Central,26-35,Returning,UPI,Offline,3078.62,3137.51
+11-08-2024,1098,Headphones,Electronics,1,33292,33292,Female,62,2024,August,East,60+,New,Cash,Offline,25507.13,7784.87
+11-08-2024,1000,Mobile,Electronics,2,10264,20528,Female,42,2024,August,North,36-45,Returning,Debit Card,Online,7962.12,4603.75
+12-08-2024,1020,Headphones,Electronics,5,21120,105600,Male,51,2024,August,West,46-60,Returning,Debit Card,Offline,16321.81,23990.93
+13-08-2024,1054,Mobile,Electronics,5,43227,216135,Female,20,2024,August,North,18-25,Returning,Debit Card,Offline,26688.05,82694.73
+14-08-2024,1005,Mobile,Electronics,5,13435,67175,Male,41,2024,August,Central,36-45,New,Debit Card,Offline,9662.87,18860.64
+14-08-2024,1091,Watch,Accessories,4,8568,34272,Male,59,2024,August,North,46-60,New,UPI,Offline,6238.72,9317.13
+15-08-2024,1080,Laptop,Electronics,3,7795,23385,Female,26,2024,August,West,26-35,Returning,UPI,Offline,5413.26,7145.22
+16-08-2024,1068,Headphones,Electronics,3,41660,124980,Male,43,2024,August,East,36-45,Returning,Credit Card,Offline,32132.8,28581.6
+17-08-2024,1094,Headphones,Electronics,1,11890,11890,Male,37,2024,August,South,36-45,New,UPI,Online,8351.91,3538.09
+17-08-2024,1004,Watch,Accessories,4,41716,166864,Female,57,2024,August,North,46-60,New,UPI,Online,26478.96,60948.15
+18-08-2024,1002,Clothes,Fashion,5,20631,103155,Female,27,2024,August,South,26-35,Returning,UPI,Offline,15645.52,24927.41
+19-08-2024,1052,Clothes,Fashion,5,29718,148590,Female,36,2024,August,Central,36-45,Returning,Cash,Online,20370.66,46736.72
+20-08-2024,1022,Bag,Accessories,2,10933,21866,Male,20,2024,August,East,18-25,New,Debit Card,Offline,6931.81,8002.39
+20-08-2024,1052,Laptop,Electronics,2,15538,31076,Male,41,2024,August,East,36-45,Returning,Credit Card,Offline,11025.02,9025.95
+21-08-2024,1036,Laptop,Electronics,5,28682,143410,Female,22,2024,August,North,18-25,Returning,UPI,Online,19378.75,46516.26
+22-08-2024,1073,Shoes,Fashion,5,12028,60140,Male,20,2024,August,East,18-25,New,Credit Card,Offline,8032.9,19975.5
+22-08-2024,1073,Watch,Accessories,4,21781,87124,Female,44,2024,August,North,36-45,New,Debit Card,Online,15954.02,23307.92
+23-08-2024,1082,Clothes,Fashion,3,49011,147033,Female,33,2024,August,North,26-35,New,UPI,Online,30459.51,55654.46
+24-08-2024,1016,Mobile,Electronics,2,9105,18210,Male,32,2024,August,South,26-35,New,Debit Card,Online,6644.72,4920.55
+25-08-2024,1084,Headphones,Electronics,3,35282,105846,Female,52,2024,August,East,46-60,New,Cash,Online,21927.71,40062.86
+25-08-2024,1077,Laptop,Electronics,4,1881,7524,Male,29,2024,August,North,26-35,Returning,Cash,Online,1149.75,2925
+26-08-2024,1072,Headphones,Electronics,5,1598,7990,Male,58,2024,August,South,46-60,New,Credit Card,Offline,1087.93,2550.37
+27-08-2024,1000,Headphones,Electronics,3,20310,60930,Female,61,2024,August,West,60+,Returning,UPI,Offline,14025.81,18852.57
+28-08-2024,1050,Shoes,Fashion,5,24822,124110,Male,43,2024,August,South,36-45,Returning,Credit Card,Online,18168.11,33269.47
+28-08-2024,1044,Clothes,Fashion,5,42369,211845,Female,64,2024,August,South,60+,Returning,Debit Card,Online,29062.51,66532.46
+29-08-2024,1076,Laptop,Electronics,1,33455,33455,Male,51,2024,August,North,46-60,Returning,Debit Card,Offline,21834.52,11620.48
+30-08-2024,1003,Headphones,Electronics,3,45216,135648,Male,40,2024,August,Central,36-45,New,Cash,Offline,31107.28,42326.17
+30-08-2024,1061,Laptop,Electronics,3,10707,32121,Male,48,2024,August,Central,46-60,Returning,Cash,Offline,8401.83,6915.5
+31-08-2024,1064,Mobile,Electronics,5,22293,111465,Female,37,2024,August,Central,36-45,New,UPI,Online,16754.06,27694.71
+01-09-2024,1031,Shoes,Fashion,4,2592,10368,Male,29,2024,September,South,26-35,New,Credit Card,Offline,1942.79,2596.83
+02-09-2024,1033,Mobile,Electronics,1,28720,28720,Female,40,2024,September,North,36-45,Returning,Debit Card,Online,19840.83,8879.17
+02-09-2024,1091,Laptop,Electronics,5,19014,95070,Male,21,2024,September,East,18-25,Returning,Credit Card,Online,13067.14,29734.29
+03-09-2024,1094,Bag,Accessories,2,38510,77020,Male,40,2024,September,South,36-45,Returning,Cash,Online,30281.44,16457.11
+04-09-2024,1071,Laptop,Electronics,2,9049,18098,Female,18,2024,September,South,18-25,Returning,Debit Card,Offline,7104.57,3888.86
+05-09-2024,1038,Clothes,Fashion,1,22531,22531,Female,42,2024,September,North,36-45,New,Cash,Online,14534.26,7996.74
+05-09-2024,1025,Headphones,Electronics,4,5685,22740,Female,19,2024,September,West,18-25,Returning,Credit Card,Offline,4194.19,5963.22
+06-09-2024,1033,Headphones,Electronics,5,15771,78855,Female,47,2024,September,South,46-60,Returning,UPI,Online,10721.75,25246.24
+07-09-2024,1053,Mobile,Electronics,3,6276,18828,Female,20,2024,September,West,18-25,New,Cash,Online,4560.31,5147.08
+08-09-2024,1002,Shoes,Fashion,1,12949,12949,Male,38,2024,September,West,36-45,New,Credit Card,Offline,9165.13,3783.87
+08-09-2024,1049,Bag,Accessories,4,24797,99188,Male,42,2024,September,Central,36-45,Returning,UPI,Online,16349.43,33790.27
+09-09-2024,1011,Watch,Accessories,3,41091,123273,Female,37,2024,September,North,36-45,Returning,Credit Card,Offline,25926.15,45494.55
+10-09-2024,1064,Headphones,Electronics,2,16217,32434,Male,39,2024,September,West,36-45,Returning,UPI,Offline,11948.98,8536.04
+10-09-2024,1053,Clothes,Fashion,2,40623,81246,Male,38,2024,September,North,36-45,Returning,Credit Card,Offline,29559.13,22127.73
+11-09-2024,1004,Mobile,Electronics,3,39733,119199,Male,50,2024,September,Central,46-60,New,Cash,Online,30114.61,28855.18
+12-09-2024,1093,Mobile,Electronics,1,46005,46005,Female,55,2024,September,North,46-60,New,Credit Card,Online,31068.47,14936.53
+13-09-2024,1093,Watch,Accessories,2,46592,93184,Male,32,2024,September,South,26-35,Returning,Credit Card,Online,33074.83,27034.34
+13-09-2024,1056,Clothes,Fashion,5,10850,54250,Male,63,2024,September,West,60+,New,Credit Card,Online,7137.47,18562.65
+14-09-2024,1016,Shoes,Fashion,3,31122,93366,Male,32,2024,September,North,26-35,Returning,UPI,Online,23364.59,23272.22
+15-09-2024,1046,Clothes,Fashion,3,35823,107469,Female,63,2024,September,East,60+,Returning,Cash,Online,26734.56,27265.33
+16-09-2024,1022,Shoes,Fashion,2,3451,6902,Male,42,2024,September,North,36-45,New,Credit Card,Offline,2352.41,2197.19
+16-09-2024,1078,Clothes,Fashion,1,18122,18122,Male,38,2024,September,West,36-45,Returning,Debit Card,Offline,12145.57,5976.43
+17-09-2024,1084,Clothes,Fashion,5,5227,26135,Female,41,2024,September,Central,36-45,Returning,Cash,Offline,3382.67,9221.63
+18-09-2024,1013,Laptop,Electronics,1,38954,38954,Female,22,2024,September,Central,18-25,New,UPI,Offline,29903.47,9050.53
+18-09-2024,1065,Mobile,Electronics,4,36969,147876,Male,23,2024,September,West,18-25,Returning,UPI,Offline,27193.6,39101.6
+19-09-2024,1074,Clothes,Fashion,4,36048,144192,Male,60,2024,September,South,46-60,New,Cash,Offline,22972.99,52300.04
+20-09-2024,1050,Watch,Accessories,2,24282,48564,Female,61,2024,September,South,60+,Returning,Debit Card,Offline,17877.31,12809.37
+21-09-2024,1037,Clothes,Fashion,2,28954,57908,Female,64,2024,September,Central,60+,Returning,UPI,Offline,18950.96,20006.07
+21-09-2024,1063,Headphones,Electronics,2,2868,5736,Female,40,2024,September,Central,36-45,Returning,Debit Card,Online,2143.26,1449.49
+22-09-2024,1097,Mobile,Electronics,4,16092,64368,Female,21,2024,September,West,18-25,New,Cash,Online,10881.93,20840.29
+23-09-2024,1037,Headphones,Electronics,1,22673,22673,Female,44,2024,September,South,36-45,Returning,Cash,Online,16154.08,6518.92
+24-09-2024,1049,Mobile,Electronics,1,33704,33704,Female,35,2024,September,Central,26-35,New,UPI,Online,22298.47,11405.53
+24-09-2024,1097,Headphones,Electronics,2,36096,72192,Female,38,2024,September,South,36-45,New,Credit Card,Offline,24347.76,23496.49
+25-09-2024,1081,Clothes,Fashion,5,34824,174120,Male,45,2024,September,Central,36-45,Returning,UPI,Offline,23671.44,55762.8
+26-09-2024,1029,Clothes,Fashion,1,46632,46632,Female,52,2024,September,North,46-60,New,Cash,Online,28831.74,17800.26
+27-09-2024,1078,Laptop,Electronics,4,24364,97456,Female,39,2024,September,East,36-45,New,Credit Card,Online,16122.21,32967.15
+27-09-2024,1090,Watch,Accessories,3,48329,144987,Male,57,2024,September,North,46-60,New,Cash,Online,32116.22,48638.33
+28-09-2024,1050,Headphones,Electronics,3,31250,93750,Female,40,2024,September,Central,36-45,Returning,UPI,Online,22594.15,25967.56
+29-09-2024,1062,Shoes,Fashion,3,11076,33228,Female,20,2024,September,East,18-25,Returning,Debit Card,Online,8210.33,8597.01
+29-09-2024,1097,Laptop,Electronics,5,17066,85330,Male,57,2024,September,East,46-60,New,UPI,Online,10654.6,32057.01
+30-09-2024,1051,Headphones,Electronics,2,7690,15380,Female,27,2024,September,Central,26-35,New,UPI,Offline,6120.67,3138.66
+01-10-2024,1037,Headphones,Electronics,4,23571,94284,Male,42,2024,October,Central,36-45,New,UPI,Online,18218.34,21410.66
+02-10-2024,1096,Laptop,Electronics,5,38833,194165,Male,25,2024,October,South,18-25,New,Cash,Offline,26004.5,64142.5
+02-10-2024,1087,Clothes,Fashion,4,15869,63476,Male,28,2024,October,Central,26-35,Returning,Cash,Offline,11139.65,18917.39
+03-10-2024,1078,Headphones,Electronics,4,24535,98140,Male,22,2024,October,West,18-25,Returning,Credit Card,Offline,16463.56,32285.77
+04-10-2024,1029,Clothes,Fashion,2,2089,4178,Female,62,2024,October,Central,60+,Returning,UPI,Online,1634.89,908.22
+05-10-2024,1050,Laptop,Electronics,3,25735,77205,Male,54,2024,October,West,46-60,Returning,Credit Card,Online,19429.49,18916.53
+05-10-2024,1080,Clothes,Fashion,2,659,1318,Male,62,2024,October,Central,60+,Returning,UPI,Online,475.05,367.91
+06-10-2024,1004,Mobile,Electronics,5,12645,63225,Female,55,2024,October,South,46-60,Returning,UPI,Online,8510.37,20673.16
+07-10-2024,1028,Shoes,Fashion,5,15873,79365,Male,46,2024,October,West,46-60,Returning,Debit Card,Offline,11687.48,20927.61
+07-10-2024,1003,Bag,Accessories,5,32421,162105,Male,22,2024,October,North,18-25,New,Cash,Offline,24926.86,37470.68
+08-10-2024,1009,Headphones,Electronics,2,39823,79646,Male,26,2024,October,West,26-35,Returning,UPI,Online,25923.79,27798.42
+09-10-2024,1055,Watch,Accessories,4,16737,66948,Male,19,2024,October,South,18-25,Returning,UPI,Offline,11495.66,20965.38
+10-10-2024,1016,Shoes,Fashion,4,42471,169884,Female,18,2024,October,West,18-25,Returning,UPI,Online,33454.35,36066.58
+10-10-2024,1073,Bag,Accessories,1,8744,8744,Male,57,2024,October,Central,46-60,New,Debit Card,Offline,6412.93,2331.07
+11-10-2024,1016,Clothes,Fashion,5,15243,76215,Female,47,2024,October,Central,46-60,Returning,Credit Card,Online,10203.75,25196.26
+12-10-2024,1083,Headphones,Electronics,4,32066,128264,Female,28,2024,October,South,26-35,New,Credit Card,Online,19365.49,50802.04
+13-10-2024,1087,Clothes,Fashion,1,46601,46601,Male,45,2024,October,East,36-45,New,Cash,Online,31710.47,14890.53
+13-10-2024,1068,Mobile,Electronics,4,46609,186436,Male,61,2024,October,Central,60+,Returning,Cash,Offline,30425.77,64732.9
+14-10-2024,1033,Laptop,Electronics,5,19191,95955,Male,29,2024,October,North,26-35,Returning,Debit Card,Online,14718.45,22362.74
+15-10-2024,1005,Headphones,Electronics,3,34496,103488,Male,56,2024,October,South,46-60,New,UPI,Online,26640.73,23565.81
+16-10-2024,1052,Bag,Accessories,5,6090,30450,Female,43,2024,October,West,36-45,New,Debit Card,Offline,4725.6,6821.99
+16-10-2024,1065,Bag,Accessories,2,6085,12170,Female,30,2024,October,West,26-35,Returning,Credit Card,Online,4746.36,2677.28
+17-10-2024,1076,Mobile,Electronics,4,9727,38908,Female,25,2024,October,North,18-25,Returning,Credit Card,Offline,7285.06,9767.76
+18-10-2024,1042,Mobile,Electronics,4,28778,115112,Male,45,2024,October,Central,36-45,New,UPI,Online,18441.46,41346.16
+18-10-2024,1074,Headphones,Electronics,2,39314,78628,Female,47,2024,October,South,46-60,Returning,UPI,Offline,29720.71,19186.58
+19-10-2024,1022,Clothes,Fashion,2,12737,25474,Male,26,2024,October,North,26-35,New,UPI,Offline,9780.22,5913.57
+20-10-2024,1054,Watch,Accessories,3,16149,48447,Male,56,2024,October,Central,46-60,New,Credit Card,Online,9744.45,19213.64
+21-10-2024,1079,Bag,Accessories,4,38213,152852,Male,48,2024,October,South,46-60,Returning,Cash,Offline,29182.89,36120.45
+21-10-2024,1094,Bag,Accessories,4,8427,33708,Male,38,2024,October,West,36-45,New,Credit Card,Offline,5274.07,12611.72
+22-10-2024,1074,Mobile,Electronics,3,45909,137727,Male,64,2024,October,South,60+,Returning,Credit Card,Online,29372.16,49610.51
+23-10-2024,1015,Shoes,Fashion,1,49266,49266,Female,51,2024,October,East,46-60,New,Debit Card,Offline,32810.4,16455.6
+24-10-2024,1007,Mobile,Electronics,3,46654,139962,Female,48,2024,October,South,46-60,New,Credit Card,Offline,28533.35,54361.95
+24-10-2024,1003,Watch,Accessories,5,7516,37580,Male,42,2024,October,East,36-45,Returning,Cash,Offline,4754.84,13805.8
+25-10-2024,1003,Clothes,Fashion,4,14527,58108,Female,29,2024,October,South,26-35,Returning,Credit Card,Online,10177.41,17398.36
+26-10-2024,1055,Clothes,Fashion,2,49188,98376,Male,18,2024,October,East,18-25,Returning,Credit Card,Offline,30679.8,37016.39
+26-10-2024,1024,Shoes,Fashion,5,24642,123210,Male,39,2024,October,West,36-45,Returning,UPI,Online,18772.96,29345.21
+27-10-2024,1066,Bag,Accessories,4,47020,188080,Male,57,2024,October,Central,46-60,Returning,Debit Card,Online,35674.18,45383.29
+28-10-2024,1095,Mobile,Electronics,3,24045,72135,Female,54,2024,October,East,46-60,New,Credit Card,Offline,16808.18,21710.47
+29-10-2024,1066,Clothes,Fashion,5,32397,161985,Male,64,2024,October,East,60+,Returning,UPI,Offline,23165.69,46156.55
+29-10-2024,1026,Watch,Accessories,4,3667,14668,Male,18,2024,October,West,18-25,New,UPI,Offline,2532.83,4536.69
+30-10-2024,1092,Headphones,Electronics,1,45257,45257,Female,18,2024,October,East,18-25,Returning,UPI,Offline,28322.2,16934.8
+31-10-2024,1031,Laptop,Electronics,1,27417,27417,Female,59,2024,October,North,46-60,New,Debit Card,Offline,18783.26,8633.74
+01-11-2024,1049,Laptop,Electronics,2,23236,46472,Female,59,2024,November,West,46-60,Returning,Credit Card,Online,17857.65,10756.71
+01-11-2024,1060,Laptop,Electronics,4,28490,113960,Male,38,2024,November,North,36-45,New,Credit Card,Offline,20915.51,30297.95
+02-11-2024,1050,Bag,Accessories,1,14587,14587,Male,32,2024,November,West,26-35,Returning,UPI,Online,9477.35,5109.65
+03-11-2024,1018,Mobile,Electronics,3,22940,68820,Female,34,2024,November,East,26-35,Returning,Credit Card,Online,15937.01,21008.97
+04-11-2024,1020,Shoes,Fashion,4,35705,142820,Male,39,2024,November,North,36-45,New,Credit Card,Offline,26630.75,36297.02
+04-11-2024,1004,Clothes,Fashion,3,15775,47325,Female,55,2024,November,East,46-60,Returning,Cash,Online,10484.84,15870.49
+05-11-2024,1081,Headphones,Electronics,3,5776,17328,Female,52,2024,November,West,46-60,Returning,Cash,Online,4076.52,5098.43
+06-11-2024,1091,Watch,Accessories,1,42127,42127,Male,62,2024,November,East,60+,New,UPI,Online,28412.78,13714.22
+06-11-2024,1041,Headphones,Electronics,4,41086,164344,Male,33,2024,November,North,26-35,New,Cash,Online,30552.21,42135.14
+07-11-2024,1060,Watch,Accessories,5,37996,189980,Female,25,2024,November,North,18-25,Returning,Debit Card,Online,25134.12,64309.42
+08-11-2024,1021,Bag,Accessories,1,19508,19508,Female,64,2024,November,East,60+,New,Cash,Offline,12968.4,6539.6
+09-11-2024,1020,Mobile,Electronics,1,6238,6238,Female,34,2024,November,South,26-35,New,Cash,Offline,3792.46,2445.54
+09-11-2024,1069,Laptop,Electronics,4,32902,131608,Female,34,2024,November,West,26-35,Returning,UPI,Online,24004.93,35588.27
+10-11-2024,1000,Mobile,Electronics,4,6293,25172,Male,43,2024,November,West,36-45,Returning,Debit Card,Offline,4261.18,8127.26
+11-11-2024,1004,Bag,Accessories,3,37791,113373,Female,30,2024,November,East,26-35,Returning,Debit Card,Offline,28557.51,27700.46
+12-11-2024,1011,Shoes,Fashion,4,6071,24284,Female,34,2024,November,South,26-35,Returning,Credit Card,Online,4490.57,6321.7
+12-11-2024,1089,Shoes,Fashion,3,31831,95493,Female,55,2024,November,North,46-60,New,Debit Card,Online,25107.18,20171.47
+13-11-2024,1045,Bag,Accessories,1,16709,16709,Male,34,2024,November,Central,26-35,New,Debit Card,Online,10800.56,5908.44
+14-11-2024,1033,Watch,Accessories,2,48514,97028,Male,31,2024,November,Central,26-35,Returning,Credit Card,Online,31264.52,34498.97
+14-11-2024,1048,Clothes,Fashion,5,25894,129470,Female,62,2024,November,East,60+,New,Credit Card,Online,17044.72,44246.4
+15-11-2024,1077,Clothes,Fashion,1,43648,43648,Male,23,2024,November,South,18-25,New,Credit Card,Offline,33091.63,10556.37
+16-11-2024,1089,Watch,Accessories,4,26182,104728,Male,52,2024,November,South,46-60,New,UPI,Offline,18653.37,30114.53
+17-11-2024,1044,Shoes,Fashion,5,2724,13620,Male,63,2024,November,West,60+,New,Cash,Online,1741.13,4914.33
+17-11-2024,1026,Shoes,Fashion,2,41657,83314,Female,31,2024,November,North,26-35,New,Credit Card,Offline,33121.91,17070.17
+18-11-2024,1072,Shoes,Fashion,2,49195,98390,Female,64,2024,November,South,60+,Returning,UPI,Online,37329.07,23731.87
+19-11-2024,1025,Mobile,Electronics,3,44952,134856,Male,25,2024,November,Central,18-25,New,Debit Card,Offline,30175.36,44329.91
+20-11-2024,1046,Shoes,Fashion,5,43908,219540,Female,32,2024,November,North,26-35,Returning,UPI,Online,33939.39,49843.07
+20-11-2024,1085,Headphones,Electronics,3,32941,98823,Female,44,2024,November,North,36-45,New,UPI,Offline,26276.29,19994.14
+21-11-2024,1055,Laptop,Electronics,1,41930,41930,Male,30,2024,November,East,26-35,Returning,Credit Card,Online,31841.21,10088.79
+22-11-2024,1093,Shoes,Fashion,5,39629,198145,Male,48,2024,November,South,46-60,New,UPI,Offline,30854.69,43871.53
+23-11-2024,1062,Watch,Accessories,1,35216,35216,Female,52,2024,November,East,46-60,New,UPI,Offline,27307.16,7908.84
+23-11-2024,1047,Laptop,Electronics,3,45359,136077,Male,23,2024,November,South,18-25,Returning,Debit Card,Online,34775.74,31749.79
+24-11-2024,1060,Mobile,Electronics,5,27086,135430,Female,22,2024,November,West,18-25,New,Debit Card,Online,16348.4,53688.02
+25-11-2024,1080,Watch,Accessories,3,45260,135780,Female,39,2024,November,East,36-45,New,Cash,Offline,36042.72,27651.83
+25-11-2024,1025,Laptop,Electronics,5,23978,119890,Male,40,2024,November,East,36-45,New,UPI,Offline,17248.33,33648.34
+26-11-2024,1035,Watch,Accessories,3,6818,20454,Female,42,2024,November,Central,36-45,New,UPI,Online,5137.11,5042.67
+27-11-2024,1000,Mobile,Electronics,2,29194,58388,Female,51,2024,November,East,46-60,New,Cash,Online,18439.78,21508.45
+28-11-2024,1007,Headphones,Electronics,3,20680,62040,Male,43,2024,November,South,36-45,Returning,Debit Card,Online,13454.67,21675.98
+28-11-2024,1098,Mobile,Electronics,2,12680,25360,Male,64,2024,November,Central,60+,New,UPI,Offline,9274.52,6810.95
+29-11-2024,1051,Mobile,Electronics,3,33502,100506,Male,22,2024,November,East,18-25,New,Credit Card,Offline,21627.71,35622.87
+30-11-2024,1078,Watch,Accessories,5,15872,79360,Female,43,2024,November,East,36-45,New,Credit Card,Online,10321.64,27751.79
+01-12-2024,1046,Bag,Accessories,5,30296,151480,Male,37,2024,December,West,36-45,Returning,Debit Card,Offline,20425.58,49352.1
+01-12-2024,1055,Clothes,Fashion,5,24927,124635,Male,23,2024,December,East,18-25,New,Debit Card,Online,19728.06,25994.68
+02-12-2024,1085,Shoes,Fashion,4,33790,135160,Male,23,2024,December,North,18-25,Returning,UPI,Offline,20995.33,51178.66
+03-12-2024,1013,Shoes,Fashion,1,28599,28599,Male,35,2024,December,Central,26-35,New,Debit Card,Online,17669.63,10929.37
+03-12-2024,1089,Headphones,Electronics,5,45986,229930,Female,21,2024,December,North,18-25,Returning,Debit Card,Online,28887,85495
+04-12-2024,1027,Headphones,Electronics,2,10321,20642,Female,34,2024,December,Central,26-35,New,Credit Card,Online,6782.52,7076.95
+05-12-2024,1086,Shoes,Fashion,5,6332,31660,Male,31,2024,December,West,26-35,Returning,Cash,Offline,4124.43,11037.83
+06-12-2024,1077,Clothes,Fashion,4,13320,53280,Female,31,2024,December,East,26-35,Returning,Debit Card,Offline,10216.91,12412.37
+06-12-2024,1087,Shoes,Fashion,2,16711,33422,Male,30,2024,December,East,26-35,Returning,Credit Card,Online,13076.5,7268.99
+07-12-2024,1001,Bag,Accessories,4,40390,161560,Male,24,2024,December,East,18-25,New,Cash,Offline,27632.95,51028.2
+08-12-2024,1025,Clothes,Fashion,2,6342,12684,Female,61,2024,December,Central,60+,Returning,UPI,Offline,4041.92,4600.17
+09-12-2024,1013,Headphones,Electronics,3,1816,5448,Female,32,2024,December,East,26-35,Returning,UPI,Offline,1368.54,1342.37
+09-12-2024,1058,Laptop,Electronics,1,46468,46468,Male,36,2024,December,North,36-45,New,Cash,Offline,32844.48,13623.52
+10-12-2024,1055,Watch,Accessories,1,18008,18008,Male,60,2024,December,East,46-60,Returning,Credit Card,Offline,11098.42,6909.58
+11-12-2024,1006,Bag,Accessories,4,22505,90020,Female,64,2024,December,West,60+,New,UPI,Online,13573.17,35727.3
+12-12-2024,1002,Bag,Accessories,1,15706,15706,Male,61,2024,December,North,60+,Returning,Cash,Offline,12394.37,3311.63
+12-12-2024,1022,Headphones,Electronics,4,19471,77884,Female,52,2024,December,East,46-60,Returning,UPI,Offline,13983.65,21949.38
+13-12-2024,1017,Headphones,Electronics,4,26099,104396,Male,34,2024,December,East,26-35,New,UPI,Offline,15761.11,41351.54
+14-12-2024,1037,Mobile,Electronics,4,22556,90224,Male,52,2024,December,South,46-60,Returning,UPI,Online,16000.32,26222.72
+14-12-2024,1098,Bag,Accessories,1,1878,1878,Female,36,2024,December,Central,36-45,Returning,Cash,Online,1200.35,677.65
+15-12-2024,1014,Mobile,Electronics,4,2019,8076,Female,37,2024,December,North,36-45,New,Debit Card,Online,1343.58,2701.68
+16-12-2024,1063,Mobile,Electronics,1,22661,22661,Female,53,2024,December,South,46-60,New,Cash,Online,14050.91,8610.09
+17-12-2024,1088,Watch,Accessories,4,41203,164812,Female,52,2024,December,West,46-60,New,Cash,Online,30934.28,41074.9
+17-12-2024,1027,Mobile,Electronics,5,39361,196805,Female,49,2024,December,Central,46-60,Returning,Debit Card,Offline,31234.34,40633.28
+18-12-2024,1073,Clothes,Fashion,4,5855,23420,Female,61,2024,December,North,60+,Returning,Debit Card,Offline,3721.04,8535.84
+19-12-2024,1038,Shoes,Fashion,2,9583,19166,Female,57,2024,December,East,46-60,Returning,Debit Card,Offline,7320.39,4525.23
+20-12-2024,1056,Laptop,Electronics,4,38842,155368,Male,41,2024,December,North,36-45,Returning,Cash,Offline,23322.62,62077.53
+20-12-2024,1016,Headphones,Electronics,3,20956,62868,Male,34,2024,December,East,26-35,Returning,Cash,Online,15341.11,16844.68
+21-12-2024,1085,Clothes,Fashion,4,13824,55296,Male,24,2024,December,Central,18-25,Returning,Credit Card,Offline,8750.44,20294.24
+22-12-2024,1089,Laptop,Electronics,2,2757,5514,Female,60,2024,December,East,46-60,New,UPI,Online,2045.93,1422.14
+22-12-2024,1043,Bag,Accessories,2,27864,55728,Female,18,2024,December,West,18-25,Returning,Credit Card,Offline,20009.1,15709.79
+23-12-2024,1024,Bag,Accessories,1,25472,25472,Female,52,2024,December,East,46-60,Returning,Credit Card,Offline,19786.6,5685.4
+24-12-2024,1016,Bag,Accessories,5,46679,233395,Male,49,2024,December,West,46-60,Returning,UPI,Offline,32927.99,68755.06
+25-12-2024,1012,Clothes,Fashion,4,27154,108616,Female,53,2024,December,Central,46-60,Returning,UPI,Online,16814.8,41356.8
+25-12-2024,1083,Clothes,Fashion,1,15733,15733,Female,30,2024,December,Central,26-35,New,Cash,Offline,10110.92,5622.08
+26-12-2024,1024,Headphones,Electronics,5,16387,81935,Male,23,2024,December,North,18-25,Returning,Cash,Online,10838.91,27740.44
+27-12-2024,1067,Shoes,Fashion,4,29820,119280,Female,31,2024,December,West,26-35,New,Debit Card,Offline,18348.14,45887.42
+28-12-2024,1009,Mobile,Electronics,3,21308,63924,Male,54,2024,December,West,46-60,New,Credit Card,Offline,15539.31,17306.08
+28-12-2024,1066,Bag,Accessories,4,30654,122616,Male,32,2024,December,South,26-35,Returning,Debit Card,Offline,19259.51,45577.95
+29-12-2024,1017,Watch,Accessories,2,35273,70546,Female,64,2024,December,South,60+,New,Debit Card,Offline,21640.01,27265.98
+30-12-2024,1099,Shoes,Fashion,2,28247,56494,Female,21,2024,December,South,18-25,New,Cash,Online,20499.39,15495.23
+31-12-2024,1085,Watch,Accessories,3,11360,34080,Female,57,2024,December,East,46-60,Returning,Credit Card,Offline,7195.88,12492.37
